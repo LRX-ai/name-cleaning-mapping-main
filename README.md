@@ -103,7 +103,7 @@ Reference Dictionary: Reference Dictionary.xlsx is a curated list of known missp
    - To run a particualr file(Example: A): python name_cleaner.py   -i input/dpoh_names_title_A.csv.csv   -o output/cleaned_A.csv
      This reads the input/dpoh_names_title_A.csv and saves the output to: output/cleaned_A.csv,...; output/cleaned_A_uniquenames.json,...; output/cleaned_A_summary.csv,...
      These 3 files will have to be dragged and dropped in the respective folders for further cleaning
-   - (IMPORTANT) To run the entire all cleaned file: python name_cleaner.py   -i output/dpoh_names_title_all_cleaned.csv   -o output/cleaned_all.csv
+   - (IMPORTANT) To run the entire all cleaned file: python name_cleaner.py   -i output/dpoh_names_title_all_cleaned.csv   -o output/cleaned_ALL.csv
      This reads the output/dpoh_names_title_all_cleaned.csv and saves the output to output/cleaned_all.csv,...; output/cleaned_all_uniquenames.json,...; output/cleaned_all_summary.csv,...
      These 3 files will have to be dragged and dropped in the respective folders for further cleaning
 3. Phase 2 Cleaning:
@@ -111,6 +111,7 @@ Reference Dictionary: Reference Dictionary.xlsx is a curated list of known missp
      This reads the output/Clean/cleaned_A.csv, ... and saves the output to: output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...; output/Final-Summary/Supercleaned_A_summary.csv,...
   - To run a particualr file(Example: A): python name_cleanerv2.py -l A
      This reads the output/Clean/cleaned_A.csv and saves the output to: output/Final-CSV/Supercleaned_A.csv; output/Final-JSON/Supercleaned_A_uniquenames.json; output/Final-Summary/Supercleaned_A_summary.csv
-  - (IMPORTANT) To run the entire all cleaned file: 
+  - (IMPORTANT) To run the entire all cleaned file: python yourscript.py -l ALL
+    This reads the output/Clean/cleaned_ALL.csv and saves the output to: output/Final-CSV/Supercleaned_ALL.csv; output/Final-JSON/Supercleaned_ALL_uniquenames.json; output/Final-Summary/Supercleaned_ALL_summary.csv
 4. UUID Generation: python dpoh_id_creator.py
   This reads the output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...; and saves the output to: output/UUID-JSON/Supercleaned_A_uniquenames.json,...; output/UUID-CSV/Supercleaned_A_uuid.csv,...; output/dpoh_mapping.json

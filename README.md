@@ -59,7 +59,7 @@ Outputs: CleanName_version2, CleanTitle_version2 columns in CSV.
 JSON summary of clusters, including all variants, counts, and a placeholder for UUID.
 output/Clean/cleaned_A.csv,...; output/JSON/cleaned_A_uniquenames.json,...; output/Summary/cleaned_A_summary.csv,...
 
-4. Phase 2: Superclustering with Metadata
+3. Phase 2: Superclustering with Metadata
 Goal: Catch any clusters missed in Phase 1 by leveraging metadata.
 Logic:
 - Group by CleanName_version2 and aggregate all linked raw names/titles.
@@ -72,7 +72,7 @@ Output: Updated CSV and JSON with phase 3 names/titles. Final summary CSV per cl
 output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...; output/Final-Summary/Supercleaned_E_summary.csv,...
 
 
-5. UUID Assignment & Final Outputs
+4. UUID Assignment & Final Outputs
 Goal: Assign a stable, unique 16-character identifier to each unique name for persistent identity tracking.
 Logic:
 - A global mapping file ensures the same name always gets the same UUID across all files/runs.

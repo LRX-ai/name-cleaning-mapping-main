@@ -1,0 +1,7325 @@
+[
+  {
+    "unique_id": "",
+    "cleaned_name": "Habib Massoud",
+    "first_appearance": "2011-12-23",
+    "last_appearance": "2013-09-24",
+    "title": "Assistant Director",
+    "Count": 8,
+    "variants": [
+      {
+        "raw_name": "Habib Massoud",
+        "count": 8
+      }
+    ],
+    "dpoh_name_raw": "Habib Massoud"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hadeel April Aziz",
+    "first_appearance": "2023-02-09",
+    "last_appearance": "2025-01-31",
+    "title": "Special Assistant, Ontario",
+    "Count": 54,
+    "variants": [
+      {
+        "raw_name": "Hadeel April Aziz",
+        "count": 54
+      }
+    ],
+    "dpoh_name_raw": "Hadeel April Aziz"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hadeel Aziz",
+    "first_appearance": "2021-12-06",
+    "last_appearance": "2025-01-28",
+    "title": "Special Assistant, Ontario",
+    "Count": 24,
+    "variants": [
+      {
+        "raw_name": "Hadeel Aziz",
+        "count": 24
+      }
+    ],
+    "dpoh_name_raw": "Hadeel  Aziz, Hadeel Aziz"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hadell Aziz",
+    "first_appearance": "2023-03-01",
+    "last_appearance": "2023-03-01",
+    "title": "Regional Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hadell Aziz",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hadell Aziz"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hafeez A Shaikh",
+    "first_appearance": "2012-01-13",
+    "last_appearance": "2012-01-13",
+    "title": "Industrial Technology Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hafeez A Shaikh",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hafeez A Shaikh"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haidn Barbara",
+    "first_appearance": "2023-09-01",
+    "last_appearance": "2023-09-01",
+    "title": "Senior Advisor, Policy and Partnership",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Haidn Barbara",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Haidn Barbara"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haidy Tadros",
+    "first_appearance": "2017-04-04",
+    "last_appearance": "2017-04-04",
+    "title": "Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Haidy Tadros",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Haidy Tadros"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haig Mccarrell",
+    "first_appearance": "2023-08-16",
+    "last_appearance": "2023-08-16",
+    "title": "Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Haig Mccarrell",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Haig McCarrell"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hailey Rumbolt",
+    "first_appearance": "2017-05-30",
+    "last_appearance": "2017-05-30",
+    "title": "Staffer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hailey Rumbolt",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hailey Rumbolt"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hailey Short",
+    "first_appearance": "2023-09-06",
+    "last_appearance": "2023-11-14",
+    "title": "Senior Communications Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hailey Short",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hailey Short"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haley Hodgson",
+    "first_appearance": "2022-01-17",
+    "last_appearance": "2023-04-13",
+    "title": "Press Secretary",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Haley Hodgson",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Haley  Hodgson, Haley Hodgson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haley Juniper",
+    "first_appearance": "2022-01-12",
+    "last_appearance": "2024-05-10",
+    "title": "Communications Advisor",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Haley Juniper",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Haley  Juniper, Haley Juniper"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haley Maziarski",
+    "first_appearance": "2022-09-20",
+    "last_appearance": "2022-09-20",
+    "title": "Policy Analyst",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Haley Maziarski",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Haley Maziarski"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haley Quipp",
+    "first_appearance": "2022-01-14",
+    "last_appearance": "2022-01-14",
+    "title": "Staffer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Haley Quipp",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Haley Quipp"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Halima Meyers",
+    "first_appearance": "2023-02-20",
+    "last_appearance": "2024-07-24",
+    "title": "Investment Analyst",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Halima Meyers",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Halima Meyers"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hall Karen",
+    "first_appearance": "2018-01-11",
+    "last_appearance": "2018-01-11",
+    "title": "Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hall Karen",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hall Karen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hall Mathew",
+    "first_appearance": "2025-02-28",
+    "last_appearance": "2025-02-28",
+    "title": "Senior Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hall Mathew",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hall Mathew"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hallan Jasraj Singh",
+    "first_appearance": "2023-02-09",
+    "last_appearance": "2023-02-09",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hallan Jasraj Singh",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hallan Jasraj Singh"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Halleh Koleyni",
+    "first_appearance": "2021-06-28",
+    "last_appearance": "2021-08-31",
+    "title": "Deputy Director, G20",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Halleh Koleyni",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Halleh Koleyni"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hallie Stacey-sullivan",
+    "first_appearance": "2023-04-03",
+    "last_appearance": "2023-04-03",
+    "title": "Advisor, Issues and Parliamentary Affairs",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hallie Stacey-sullivan",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hallie Stacey-Sullivan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Halucha Paul",
+    "first_appearance": "2018-01-17",
+    "last_appearance": "2024-12-18",
+    "title": "Deputy Clerk",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Halucha Paul",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Halucha Paul"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Halverson Soren",
+    "first_appearance": "2019-02-28",
+    "last_appearance": "2019-02-28",
+    "title": "Associate Assistant Deputy Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Halverson Soren",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "halverson Soren"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hamid Mohamed",
+    "first_appearance": "2009-06-29",
+    "last_appearance": "2009-06-29",
+    "title": "Assistant Program Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hamid Mohamed",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hamid Mohamed"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hamid Mohammed",
+    "first_appearance": "2024-09-18",
+    "last_appearance": "2024-09-18",
+    "title": "Executive Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hamid Mohammed",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hamid Mohammed"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hamid Ould Brahim",
+    "first_appearance": "2012-05-15",
+    "last_appearance": "2013-09-16",
+    "title": "CTI",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Hamid Ould Brahim",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Hamid Ould Brahim"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hamid Sarreshtehdari",
+    "first_appearance": "2023-10-13",
+    "last_appearance": "2023-10-13",
+    "title": "Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hamid Sarreshtehdari",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hamid Sarreshtehdari"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hamish Wright",
+    "first_appearance": "2022-01-14",
+    "last_appearance": "2022-12-08",
+    "title": "Policy Advisor",
+    "Count": 49,
+    "variants": [
+      {
+        "raw_name": "Hamish Wright",
+        "count": 49
+      }
+    ],
+    "dpoh_name_raw": "Hamish  Wright, Hamish Wright, hamish Wright"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hamzawi Nancy",
+    "first_appearance": "2022-02-11",
+    "last_appearance": "2022-02-11",
+    "title": "Assistant Deputy Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hamzawi Nancy",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hamzawi  Nancy "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Han Dong",
+    "first_appearance": "2020-01-29",
+    "last_appearance": "2024-08-01",
+    "title": "Member of Parliament",
+    "Count": 107,
+    "variants": [
+      {
+        "raw_name": "Han Dong",
+        "count": 106
+      },
+      {
+        "raw_name": "Hang Dong",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Han Dong, Hang Dong"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanan Abramovici",
+    "first_appearance": "2018-02-21",
+    "last_appearance": "2020-10-01",
+    "title": "Manager",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hana Abramovici",
+        "count": 1
+      },
+      {
+        "raw_name": "Hanan Abramovici",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hana Abramovici, Hanan Abramovici"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hana Kokanovic",
+    "first_appearance": "2016-08-11",
+    "last_appearance": "2019-07-16",
+    "title": "Senior Policy Advisor",
+    "Count": 47,
+    "variants": [
+      {
+        "raw_name": "Hana Kokanovic",
+        "count": 46
+      },
+      {
+        "raw_name": "Hannah Kokanovic",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hana Kokanovic, Hannah Kokanovic"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hana Maqsood",
+    "first_appearance": "2023-10-19",
+    "last_appearance": "2024-12-06",
+    "title": "Acting Manager",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hana Maqsood",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hana Maqsood"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hana Mihaldz",
+    "first_appearance": "2022-02-01",
+    "last_appearance": "2022-02-01",
+    "title": "Desk Officer, Central America",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hana Mihaldz",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hana Mihaldz"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanan Harb",
+    "first_appearance": "2019-06-03",
+    "last_appearance": "2020-11-12",
+    "title": "Director, Community and Stakeholder Relations",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Hanan Harb",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Hanan Harb"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanan Salama",
+    "first_appearance": "2023-06-01",
+    "last_appearance": "2023-06-01",
+    "title": "Constituency Assistant",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hanan Salama",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hanan Salama"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanen Nanaa",
+    "first_appearance": "2022-02-22",
+    "last_appearance": "2022-09-28",
+    "title": "Regional Advisor, Ontario",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hanen Nanaa",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hanen Nanaa"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanif Mawji",
+    "first_appearance": "2020-07-22",
+    "last_appearance": "2023-07-27",
+    "title": "Associate Director, Operations",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hanif Mawji",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hanif Mawji"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanife Masoomi",
+    "first_appearance": "2019-06-04",
+    "last_appearance": "2019-06-04",
+    "title": "Parliamentary Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hanife Masoomi",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hanife Masoomi"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hank Trim",
+    "first_appearance": "2022-09-22",
+    "last_appearance": "2022-09-22",
+    "title": "Senior Policy Analyst",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hank Trim",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hank Trim"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Abla",
+    "first_appearance": "2019-07-04",
+    "last_appearance": "2020-01-30",
+    "title": "Senior Director",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hanna Abla",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hanna Abla"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Bartool",
+    "first_appearance": "2024-04-11",
+    "last_appearance": "2024-04-11",
+    "title": "Policy Advisor to the Minister of Diversity, Inclusion and Persons with Disabilities",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hanna Bartool",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hanna Bartool"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Batool",
+    "first_appearance": "2023-03-29",
+    "last_appearance": "2024-04-11",
+    "title": "Regional Advisor, Ontario",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Hanna Batool",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Hanna  Batool , Hanna Batool"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Button",
+    "first_appearance": "2016-03-31",
+    "last_appearance": "2023-01-26",
+    "title": "Director of Policy",
+    "Count": 236,
+    "variants": [
+      {
+        "raw_name": "Hana Button",
+        "count": 1
+      },
+      {
+        "raw_name": "Hanna Button",
+        "count": 227
+      },
+      {
+        "raw_name": "Hannah Button",
+        "count": 8
+      }
+    ],
+    "dpoh_name_raw": "Hana Button, Hanna  Button , Hanna Button, Hanna Button , Hanna Button,, Hannah Button"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Classen",
+    "first_appearance": "2012-11-06",
+    "last_appearance": "2012-11-06",
+    "title": "Policy Analyst",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hanna Classen",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hanna Classen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Hughes",
+    "first_appearance": "2020-11-12",
+    "last_appearance": "2021-04-21",
+    "title": "Intern",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hanna Hughes",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hanna Hughes"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Kambo",
+    "first_appearance": "2016-02-17",
+    "last_appearance": "2021-11-05",
+    "title": "Senior Advisor, West and North",
+    "Count": 31,
+    "variants": [
+      {
+        "raw_name": "Hanna Kambo",
+        "count": 28
+      },
+      {
+        "raw_name": "Hannah Kambo",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hanna Kambo, Hannah Kambo"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Kokavonic",
+    "first_appearance": "2019-03-29",
+    "last_appearance": "2019-03-29",
+    "title": "Senior Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hanna Kokavonic",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hanna Kokavonic"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Lange-chenier",
+    "first_appearance": "2020-02-18",
+    "last_appearance": "2020-02-18",
+    "title": "Communications Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hanna Lange-chenier",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hanna Lange-Chenier"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Zhang",
+    "first_appearance": "2024-04-02",
+    "last_appearance": "2024-04-02",
+    "title": "Briefing Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hanna Zhang",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hanna Zhang"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hanna Zheng",
+    "first_appearance": "2023-03-15",
+    "last_appearance": "2023-03-15",
+    "title": "Executive Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hanna Zheng",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hanna Zheng"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannaan Hassan",
+    "first_appearance": "2022-01-14",
+    "last_appearance": "2022-01-14",
+    "title": "Special Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hannaan Hassan",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hannaan Hassan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Anderson",
+    "first_appearance": "2016-03-10",
+    "last_appearance": "2023-12-11",
+    "title": "Legislative Assistant",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hannah Anderson",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hannah Anderson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Batool",
+    "first_appearance": "2023-12-08",
+    "last_appearance": "2023-12-08",
+    "title": "Advisor, Ontario Regional Affairs and Outreach",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hannah Batool",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hannah Batool"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Ehler",
+    "first_appearance": "2023-05-24",
+    "last_appearance": "2023-05-29",
+    "title": "Intern",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hannah Ehler",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hannah Ehler"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Hodson",
+    "first_appearance": "2020-11-03",
+    "last_appearance": "2022-02-09",
+    "title": "Special Assistant",
+    "Count": 12,
+    "variants": [
+      {
+        "raw_name": "Hannah Hodson",
+        "count": 12
+      }
+    ],
+    "dpoh_name_raw": "Hannah Hodson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Hughes",
+    "first_appearance": "2021-02-16",
+    "last_appearance": "2021-02-16",
+    "title": "Parliamentary Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hannah Hughes",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hannah Hughes"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah J. Johnston",
+    "first_appearance": "2019-03-04",
+    "last_appearance": "2019-03-12",
+    "title": "Staffer to Member of Parliament",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hannah J. Johnston",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hannah J. Johnston"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Jensen",
+    "first_appearance": "2020-09-30",
+    "last_appearance": "2020-11-30",
+    "title": "Parliamentary Assistant",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hannah Jensen",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hannah Jensen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Rogers",
+    "first_appearance": "2016-06-21",
+    "last_appearance": "2016-06-21",
+    "title": "Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hannah Rogers",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hannah Rogers"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Stafl",
+    "first_appearance": "2023-10-24",
+    "last_appearance": "2023-10-26",
+    "title": "Senior Investment Analyst",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hannah Stafl",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hannah Stafl"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Wieler",
+    "first_appearance": "2022-07-07",
+    "last_appearance": "2025-03-04",
+    "title": "Director, Parliamentary Affairs",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hannah Wieler",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hannah Wieler"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannah Wilson",
+    "first_appearance": "2018-10-16",
+    "last_appearance": "2025-03-19",
+    "title": "Policy Advisor",
+    "Count": 651,
+    "variants": [
+      {
+        "raw_name": "Hannah Wilson",
+        "count": 651
+      }
+    ],
+    "dpoh_name_raw": "Hannah  Wilson, Hannah  Wilson , Hannah WIlson, Hannah Wilson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannan Hassan",
+    "first_appearance": "2024-11-04",
+    "last_appearance": "2024-11-04",
+    "title": "Senior Communications Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hannan Hassan",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hannan Hassan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hannoush Andre",
+    "first_appearance": "2015-07-13",
+    "last_appearance": "2015-07-13",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hannoush Andre",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hannoush Andre"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hans Jung",
+    "first_appearance": "2011-09-06",
+    "last_appearance": "2011-09-06",
+    "title": "Surgeon General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hans Jung",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hans Jung"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hans Pierre",
+    "first_appearance": "2023-03-22",
+    "last_appearance": "2023-03-22",
+    "title": "Chief Information Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hans Pierre",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hans La Pierre"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hans Yu",
+    "first_appearance": "2024-11-15",
+    "last_appearance": "2024-11-15",
+    "title": "Executive Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hans Yu",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hans Yu"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hantz Prosper",
+    "first_appearance": "2022-05-26",
+    "last_appearance": "2024-10-04",
+    "title": "Director General",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Hantz Prosper",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Hantz Prosper"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harb Abed",
+    "first_appearance": "2017-08-10",
+    "last_appearance": "2017-11-21",
+    "title": "Senior Policy Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Harb Abed",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Harb Abed"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harbinder Gill",
+    "first_appearance": "2025-06-11",
+    "last_appearance": "2025-06-11",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harbinder Gill",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harbinder Gill"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hardave Birk",
+    "first_appearance": "2016-06-07",
+    "last_appearance": "2016-06-07",
+    "title": "Director of Policy",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hardave Birk",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hardave Birk"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harder Peter",
+    "first_appearance": "2018-05-09",
+    "last_appearance": "2018-05-09",
+    "title": "Senator",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harder Peter",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harder Peter"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hardie Ken",
+    "first_appearance": "2018-02-06",
+    "last_appearance": "2018-02-06",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hardie Ken",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hardie Ken"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hardie Rath-wilson",
+    "first_appearance": "2014-08-21",
+    "last_appearance": "2017-05-16",
+    "title": "Legislative Assistant",
+    "Count": 7,
+    "variants": [
+      {
+        "raw_name": "Hardie Rath-wilson",
+        "count": 7
+      }
+    ],
+    "dpoh_name_raw": "Hardie Rath-Wilson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hargrove Glen",
+    "first_appearance": "2021-04-08",
+    "last_appearance": "2021-04-08",
+    "title": "Assistant Deputy Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hargrove Glen",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hargrove Glen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hari Kukenthiran",
+    "first_appearance": "2023-03-07",
+    "last_appearance": "2023-03-07",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hari Kukenthiran",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hari Kukenthiran"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harijit Saijan",
+    "first_appearance": "2016-11-23",
+    "last_appearance": "2020-05-23",
+    "title": "Member of Parliament",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Harijit Saijan",
+        "count": 1
+      },
+      {
+        "raw_name": "Harjit Saajan",
+        "count": 1
+      },
+      {
+        "raw_name": "Harjit Sajin",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harijit Saijan, Harjit Saajan, Harjit Sajin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harjit Sajjan",
+    "first_appearance": "2015-11-13",
+    "last_appearance": "2025-01-01",
+    "title": "Minister",
+    "Count": 253,
+    "variants": [
+      {
+        "raw_name": "Harjit S Sajjan",
+        "count": 1
+      },
+      {
+        "raw_name": "Harjit S. Sajjan",
+        "count": 7
+      },
+      {
+        "raw_name": "Harjit Sadjin",
+        "count": 1
+      },
+      {
+        "raw_name": "Harjit Saijan",
+        "count": 1
+      },
+      {
+        "raw_name": "Harjit Sajan",
+        "count": 1
+      },
+      {
+        "raw_name": "Harjit Sajjan",
+        "count": 234
+      },
+      {
+        "raw_name": "Harjit Sin Sajjan",
+        "count": 1
+      },
+      {
+        "raw_name": "Harjit Singh Sajjan",
+        "count": 6
+      },
+      {
+        "raw_name": "Harjitt Sajjan",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harjit  Sajjan, Harjit  Sajjan , Harjit  Singh Sajjan , Harjit S Sajjan, Harjit S. Sajjan, Harjit Sadjin, Harjit Saijan, Harjit Sajan, Harjit Sajjan, Harjit Sajjan , Harjit Sin Sajjan, Harjit Singh Sajjan, Harjitt Sajjan, Hon. Harjit S. Sajjan, Hon. Harjit Sajjan, Honourable Harjit Sajjan, The Hon Harjit S. Sajjan, The Honourable Harjit S. Sajjan, harjit sajjan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harjit Singh",
+    "first_appearance": "2016-05-11",
+    "last_appearance": "2016-05-11",
+    "title": "Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harjit Singh",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harjit Singh"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harjit Singh Sarjjan",
+    "first_appearance": "2016-03-08",
+    "last_appearance": "2016-03-08",
+    "title": "Minister of National Defence",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harjit Singh Sarjjan",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harjit Singh Sarjjan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harley Juniper",
+    "first_appearance": "2022-05-26",
+    "last_appearance": "2022-05-26",
+    "title": "Manager, Communications and Community Engagement",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harley Juniper",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harley Juniper"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harnoor Kochar",
+    "first_appearance": "2018-06-07",
+    "last_appearance": "2018-06-07",
+    "title": "Summer Intern",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harnoor Kochar",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harnoor Kochar"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harold Albrecht",
+    "first_appearance": "2008-12-18",
+    "last_appearance": "2019-07-15",
+    "title": "Member of Parliament",
+    "Count": 432,
+    "variants": [
+      {
+        "raw_name": "Harold Alberecht",
+        "count": 1
+      },
+      {
+        "raw_name": "Harold Albrecht",
+        "count": 424
+      },
+      {
+        "raw_name": "Harold Albrect",
+        "count": 3
+      },
+      {
+        "raw_name": "Harold Albreicht",
+        "count": 1
+      },
+      {
+        "raw_name": "Harold Albretch",
+        "count": 2
+      },
+      {
+        "raw_name": "Harold Albrtecht",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Dr. Harold Albrecht, Dr. Harold Albrecht, M.P., HAROLD ALBRECHT, Harold Alberecht, Harold Albrecht, Harold Albrecht MP, Harold Albrecht, M.P., Harold Albrect, Harold Albreicht, Harold Albretch, Mr. Harold Albrecht, harold Albrecht, harold albrtecht"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harold Boies",
+    "first_appearance": "2016-06-01",
+    "last_appearance": "2022-10-07",
+    "title": "Director, Periodical Policy and Programs",
+    "Count": 21,
+    "variants": [
+      {
+        "raw_name": "Harold Boies",
+        "count": 21
+      }
+    ],
+    "dpoh_name_raw": "Harold  Boies, Harold Boies"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harold Boudreau",
+    "first_appearance": "2010-03-25",
+    "last_appearance": "2010-03-25",
+    "title": "Pharmacy Consultant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harold Boudreau",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harold Boudreau"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harold Deck",
+    "first_appearance": "2013-11-12",
+    "last_appearance": "2013-11-12",
+    "title": "Senior Manager, Industrial Development",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harold Deck",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harold Deck"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harold Dremin",
+    "first_appearance": "2024-06-04",
+    "last_appearance": "2025-03-04",
+    "title": "Chief of Investor Services",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Harold Dremin",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Harold Dremin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harold Gallagher",
+    "first_appearance": "2020-11-19",
+    "last_appearance": "2020-11-19",
+    "title": "Director, Financial Stability Retail Payments Oversight",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Harold Gallagher",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Harold Gallagher"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harold Leadlay",
+    "first_appearance": "2013-04-23",
+    "last_appearance": "2013-11-29",
+    "title": "Environment Assessment Officer",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Harold Leadlay",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Harold Leadlay"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harold Wetston",
+    "first_appearance": "2017-06-20",
+    "last_appearance": "2017-06-20",
+    "title": "Senator",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harold Wetston",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harold Wetston"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haroon Sritharan",
+    "first_appearance": "2021-05-04",
+    "last_appearance": "2023-04-20",
+    "title": "Constituency Assistant",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Haroon Sritharan",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Haroon Sritharan, haroon sritharan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harpreet Kochar",
+    "first_appearance": "2015-12-04",
+    "last_appearance": "2024-10-31",
+    "title": "Associate Deputy Minister",
+    "Count": 25,
+    "variants": [
+      {
+        "raw_name": "Harpeet Kochhar",
+        "count": 2
+      },
+      {
+        "raw_name": "Harpreet Kocchar",
+        "count": 5
+      },
+      {
+        "raw_name": "Harpreet Kochaar",
+        "count": 1
+      },
+      {
+        "raw_name": "Harpreet Kochar",
+        "count": 14
+      },
+      {
+        "raw_name": "Harpreet Kochbar",
+        "count": 1
+      },
+      {
+        "raw_name": "Harpreet S Kochhar",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Dr. Harpreet Kocchar, Dr. Harpreet S Kochhar, Dr. Harpreet S Kochhar , Harpeet Kochhar, Harpreet  Kochar, Harpreet Kocchar, Harpreet Kochaar, Harpreet Kochar, Harpreet Kochbar"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harper Stephen",
+    "first_appearance": "2009-02-26",
+    "last_appearance": "2009-02-26",
+    "title": "Prime Minister of Canada",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harper Stephen",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harper Stephen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harpreet Kachhar",
+    "first_appearance": "2017-02-16",
+    "last_appearance": "2017-02-16",
+    "title": "Vic",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harpreet Kachhar",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harpreet Kachhar"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harpreet Kochhar",
+    "first_appearance": "2011-07-14",
+    "last_appearance": "2025-05-01",
+    "title": "President",
+    "Count": 184,
+    "variants": [
+      {
+        "raw_name": "Harpreet Kochhar",
+        "count": 178
+      },
+      {
+        "raw_name": "Harpreet Kochlar",
+        "count": 4
+      },
+      {
+        "raw_name": "Harpreet S. Kochhar",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Dr. Harpreet Kochhar, Harpreet  Kochhar, Harpreet  Kochhar , Harpreet Kochhar, Harpreet Kochhar , Harpreet Kochlar, Harpreet S. Kochhar"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harri Viksstedt",
+    "first_appearance": "2018-06-25",
+    "last_appearance": "2018-06-25",
+    "title": "Canadian Foreign Exchange Committee",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harri Viksstedt",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harri Viksstedt"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harri Vikstedt",
+    "first_appearance": "2016-04-19",
+    "last_appearance": "2017-08-24",
+    "title": "Senior Director",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Harri Vikstedt",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Harri Vikstedt"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harriet Jackson",
+    "first_appearance": "2019-08-27",
+    "last_appearance": "2024-05-28",
+    "title": "Chief of Staff and Advisor to Senior Deputy Governor",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Harriet Jackson",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Harriet  Jackson, Harriet Jackson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harriet Roos",
+    "first_appearance": "2022-07-13",
+    "last_appearance": "2025-03-26",
+    "title": "Deputy Director",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Harriet Roos",
+        "count": 2
+      },
+      {
+        "raw_name": "Harriet Roose",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harriet  Roose, Harriet Roos"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harris Berton",
+    "first_appearance": "2020-09-04",
+    "last_appearance": "2020-09-04",
+    "title": "Senior Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harris Berton",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harris Berton"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harris Qureshi",
+    "first_appearance": "2019-02-05",
+    "last_appearance": "2019-02-05",
+    "title": "Legislative Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harris Qureshi",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harris Qureshi"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harrison Andruschak",
+    "first_appearance": "2022-07-07",
+    "last_appearance": "2025-05-23",
+    "title": "Special Advisor",
+    "Count": 52,
+    "variants": [
+      {
+        "raw_name": "Harrison Andruschak",
+        "count": 50
+      },
+      {
+        "raw_name": "Harrison Andrushchak",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Harrison  Andruschak, Harrison  Andruschak , Harrison Andruschak, Harrison Andruschak , Harrison Andrushchak"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harrison Paul",
+    "first_appearance": "2022-02-04",
+    "last_appearance": "2024-03-19",
+    "title": "Legislative Assistant",
+    "Count": 9,
+    "variants": [
+      {
+        "raw_name": "Harrison Paul",
+        "count": 9
+      }
+    ],
+    "dpoh_name_raw": "Harrison Paul"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harry Borlase",
+    "first_appearance": "2013-10-01",
+    "last_appearance": "2013-10-08",
+    "title": "Policy and Stakeholder Relations",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Harry Borlase",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Harry Borlase"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harry Burton",
+    "first_appearance": "2018-05-29",
+    "last_appearance": "2025-06-13",
+    "title": "Director of Operations",
+    "Count": 81,
+    "variants": [
+      {
+        "raw_name": "Harry Burton",
+        "count": 81
+      }
+    ],
+    "dpoh_name_raw": "Harry  Burton, Harry Burton"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harry Gill",
+    "first_appearance": "2016-08-22",
+    "last_appearance": "2024-10-11",
+    "title": "Assistant Commissioner and Agency Security Officer",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Harry Gill",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Harry Gill"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harry Mcguire",
+    "first_appearance": "2024-12-05",
+    "last_appearance": "2025-03-19",
+    "title": "Legislative Assistant",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Harry Mcguire",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Harry McGuire"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harry Olbach-miller",
+    "first_appearance": "2021-11-08",
+    "last_appearance": "2021-11-08",
+    "title": "Policy and Cabinet Affairs Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harry Olbach-miller",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harry Olbach-Miller"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harry Orbach Miller",
+    "first_appearance": "2023-04-14",
+    "last_appearance": "2024-02-28",
+    "title": "Policy Advisor",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Harry Orbach Miller",
+        "count": 2
+      },
+      {
+        "raw_name": "Harry Orback-miller",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Harry  Orbach Miller, Harry Orbach Miller, Harry Orback-Miller"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harry Orbach-miller",
+    "first_appearance": "2020-05-11",
+    "last_appearance": "2024-10-24",
+    "title": "Policy Advisor and Senior Coordinator",
+    "Count": 286,
+    "variants": [
+      {
+        "raw_name": "Harry Orbach-miller",
+        "count": 286
+      }
+    ],
+    "dpoh_name_raw": "Harry  Orbach-Miller, Harry  Orbach-Miller , Harry Orbach-Miller, Harry Orbach-Miller , Harry Orbach-miller"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hartley Ben",
+    "first_appearance": "2017-05-11",
+    "last_appearance": "2017-05-11",
+    "title": "Senior Advisor to the Parliamentary Secretary",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hartley Ben",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hartley Ben"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hartley Whitten",
+    "first_appearance": "2022-08-17",
+    "last_appearance": "2022-08-17",
+    "title": "Executive Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hartley Whitten",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hartley Whitten"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hartley Witten",
+    "first_appearance": "2022-09-20",
+    "last_appearance": "2024-08-28",
+    "title": "Exempt Staff",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hartley Witten",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hartley Witten"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harun Jasarevic",
+    "first_appearance": "2017-11-02",
+    "last_appearance": "2021-04-09",
+    "title": "Parliamentary Assistant",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Harun Jasarevic",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Harun Jasarevic"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haruna",
+    "first_appearance": "2020-02-13",
+    "last_appearance": "2020-02-13",
+    "title": "Executive Vice Chair | Chief Executive Officer, Naseni",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Haruna",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "M.S. Haruna"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harvey Vardy",
+    "first_appearance": "2021-03-11",
+    "last_appearance": "2021-03-11",
+    "title": "Assistant Commissioner, Coast Guard Atlantic Region",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harvey Vardy",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harvey Vardy"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harvey Wong",
+    "first_appearance": "2011-01-28",
+    "last_appearance": "2011-12-01",
+    "title": "Director of Tourism",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Harvey Wong",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Harvey Wong"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Harwood Phil",
+    "first_appearance": "2012-09-26",
+    "last_appearance": "2012-09-26",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Harwood Phil",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Harwood Phil"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hasan Hutchison",
+    "first_appearance": "2009-08-06",
+    "last_appearance": "2018-08-22",
+    "title": "Director General",
+    "Count": 50,
+    "variants": [
+      {
+        "raw_name": "Hasan Hutchinson",
+        "count": 16
+      },
+      {
+        "raw_name": "Hasan Hutchison",
+        "count": 33
+      },
+      {
+        "raw_name": "Hasan Huthison",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Dr. Hasan Hutchinson, Hasan Hutchinson, Hasan Hutchison, Hasan Huthison"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haseeb Hassaan",
+    "first_appearance": "2020-09-24",
+    "last_appearance": "2023-06-22",
+    "title": "Policy Advisor",
+    "Count": 23,
+    "variants": [
+      {
+        "raw_name": "Haseeb Hassaan",
+        "count": 21
+      },
+      {
+        "raw_name": "Haseeb Hassan",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Haseeb Hassaan, Haseeb Hassan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hasina Haq-alam",
+    "first_appearance": "2016-09-27",
+    "last_appearance": "2016-09-27",
+    "title": "Officer, Arbitration",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hasina Haq-alam",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hasina Haq-Alam"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hassan Amjoun",
+    "first_appearance": "2024-10-30",
+    "last_appearance": "2024-10-30",
+    "title": "Senior Project Engineer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hassan Amjoun",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hassan Amjoun"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hassan Yussuff",
+    "first_appearance": "2021-08-03",
+    "last_appearance": "2025-06-11",
+    "title": "Senator",
+    "Count": 99,
+    "variants": [
+      {
+        "raw_name": "Hassan Yussuf",
+        "count": 4
+      },
+      {
+        "raw_name": "Hassan Yussuff",
+        "count": 95
+      }
+    ],
+    "dpoh_name_raw": "HASSAN YUSSUFF, Hassan Yussuf, Hassan Yussuff"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hassen Mohammed",
+    "first_appearance": "2023-02-14",
+    "last_appearance": "2023-02-14",
+    "title": "Consultant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hassen Mohammed",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "hassen Mohammed"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hatem Khouaja",
+    "first_appearance": "2019-08-23",
+    "last_appearance": "2019-08-23",
+    "title": "Lead Technical Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hatem Khouaja",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hatem Khouaja"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hatton Terry",
+    "first_appearance": "2023-03-28",
+    "last_appearance": "2023-03-28",
+    "title": "Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hatton Terry",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hatton Terry"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hau Sing Tse",
+    "first_appearance": "2010-09-17",
+    "last_appearance": "2010-10-06",
+    "title": "Senior Vice President",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hau Sing Tse",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hau Sing Tse"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hauke Harms",
+    "first_appearance": "2023-01-30",
+    "last_appearance": "2023-10-20",
+    "title": "Trade Commissioner, Embassy of Canada",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hauke Harms",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hauke Harms"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Havelin Anand",
+    "first_appearance": "2009-06-15",
+    "last_appearance": "2009-06-15",
+    "title": "Director General",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Havelin Anand",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Havelin Anand"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hawkins Bill",
+    "first_appearance": "2011-08-24",
+    "last_appearance": "2013-10-28",
+    "title": "Chief of Staff",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hawkins Bill",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hawkins Bill"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hawn Laurie",
+    "first_appearance": "2011-11-15",
+    "last_appearance": "2011-11-15",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hawn Laurie",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hawn Laurie"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hayden Gowan",
+    "first_appearance": "2020-11-26",
+    "last_appearance": "2023-10-05",
+    "title": "Parliamentary Assistant",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hayden Gowan",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hayden Gowan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hayden Moher",
+    "first_appearance": "2016-11-22",
+    "last_appearance": "2024-01-22",
+    "title": "Staffer",
+    "Count": 12,
+    "variants": [
+      {
+        "raw_name": "Hayden Moher",
+        "count": 12
+      }
+    ],
+    "dpoh_name_raw": "Hayden Moher"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hayden Trenholm",
+    "first_appearance": "2008-10-30",
+    "last_appearance": "2016-10-18",
+    "title": "Director of Policy",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hayden Trenholm",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hayden Trenholm"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Haydon Place",
+    "first_appearance": "2012-06-11",
+    "last_appearance": "2012-06-11",
+    "title": "Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Haydon Place",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Haydon Place"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hayley Jean Rahman",
+    "first_appearance": "2017-11-14",
+    "last_appearance": "2017-11-14",
+    "title": "Trade Commissioner",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hayley Jean Rahman",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hayley Jean Rahman"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hayley Provost",
+    "first_appearance": "2025-03-26",
+    "last_appearance": "2025-03-26",
+    "title": "Junior Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hayley Provost",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hayley Provost"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hayley Quipp",
+    "first_appearance": "2020-02-27",
+    "last_appearance": "2023-10-24",
+    "title": "Legislative Assistant",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hayley Quipp",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hayley Quipp"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heath Lariviere",
+    "first_appearance": "2024-11-06",
+    "last_appearance": "2024-11-06",
+    "title": "Director",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heath Lariviere",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heath  Lariviere, Heath Lariviere"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heath Macdonald",
+    "first_appearance": "2021-12-14",
+    "last_appearance": "2025-06-05",
+    "title": "Member of Parliament",
+    "Count": 114,
+    "variants": [
+      {
+        "raw_name": "Heath Macdonald",
+        "count": 111
+      },
+      {
+        "raw_name": "Heath Mcdonald",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Heath  MacDonald, Heath  MacDonald , Heath  McDonald, Heath MacDonald, Heath Macdonald, Heath Macdonald , Heath McDonald, heath macdonald"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Anderson",
+    "first_appearance": "2009-09-30",
+    "last_appearance": "2016-03-22",
+    "title": "Senior Policy Advisor",
+    "Count": 9,
+    "variants": [
+      {
+        "raw_name": "Heather Anderson",
+        "count": 9
+      }
+    ],
+    "dpoh_name_raw": "Heather Anderson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Arbuckle",
+    "first_appearance": "2019-09-27",
+    "last_appearance": "2024-06-07",
+    "title": "Manager, Horticulture Commodities",
+    "Count": 28,
+    "variants": [
+      {
+        "raw_name": "Heather Arbuckle",
+        "count": 28
+      }
+    ],
+    "dpoh_name_raw": "Heather  Arbuckle, Heather Arbuckle"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Bradley",
+    "first_appearance": "2016-08-31",
+    "last_appearance": "2016-08-31",
+    "title": "Director of Communications",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Bradley",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Bradley"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Brown",
+    "first_appearance": "2020-06-26",
+    "last_appearance": "2023-05-31",
+    "title": "National Manager",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Heather Brown",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Heather Brown"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Bystryk",
+    "first_appearance": "2012-03-03",
+    "last_appearance": "2025-03-19",
+    "title": "Trade Commissioner",
+    "Count": 7,
+    "variants": [
+      {
+        "raw_name": "Heather Bystryk",
+        "count": 7
+      }
+    ],
+    "dpoh_name_raw": "Heather Bystryk"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Calvert",
+    "first_appearance": "2024-12-12",
+    "last_appearance": "2024-12-12",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Calvert",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather  Calvert"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Cameron",
+    "first_appearance": "2010-11-02",
+    "last_appearance": "2013-08-19",
+    "title": "Director General, Programming",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Heather Cameron",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Heather Cameron"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Carriere",
+    "first_appearance": "2021-12-17",
+    "last_appearance": "2021-12-29",
+    "title": "Executive Director, Oversight",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Carriere",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Carriere"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Chiasson",
+    "first_appearance": "2016-03-24",
+    "last_appearance": "2018-09-10",
+    "title": "Special Assistant",
+    "Count": 12,
+    "variants": [
+      {
+        "raw_name": "Heather Chaisson",
+        "count": 1
+      },
+      {
+        "raw_name": "Heather Chiasson",
+        "count": 11
+      }
+    ],
+    "dpoh_name_raw": "Heather Chaisson, Heather Chiasson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Crowe",
+    "first_appearance": "2024-11-25",
+    "last_appearance": "2024-11-25",
+    "title": "Chief of Staff",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Crowe",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Crowe"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Cruden",
+    "first_appearance": "2009-06-22",
+    "last_appearance": "2011-07-19",
+    "title": "Minister Counsellor, Development | Head of Aid",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Cruden",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Cruden"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Culbert",
+    "first_appearance": "2020-04-03",
+    "last_appearance": "2020-05-25",
+    "title": "Director",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Culbert",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Culbert"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Cuthbert",
+    "first_appearance": "2020-11-12",
+    "last_appearance": "2020-11-12",
+    "title": "Vice Chair",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Cuthbert",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Cuthbert"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Darch",
+    "first_appearance": "2016-08-09",
+    "last_appearance": "2016-09-27",
+    "title": "Evaluation Specialist",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Darch",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Darch"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Dauphinee",
+    "first_appearance": "2008-11-28",
+    "last_appearance": "2008-11-28",
+    "title": "Chief of Staff | Executive Advisor, Materiel Group",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Dauphinee",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Dauphinee"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather De Santis",
+    "first_appearance": "2018-04-18",
+    "last_appearance": "2018-10-19",
+    "title": "Chief of Staff",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather De Santis",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather De Santis"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Deehan",
+    "first_appearance": "2021-01-06",
+    "last_appearance": "2025-03-24",
+    "title": "Director",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Heather Deehan",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Heather Deehan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Domerackyj",
+    "first_appearance": "2011-01-25",
+    "last_appearance": "2014-04-29",
+    "title": "Press Secretary",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Domerackyj",
+        "count": 1
+      },
+      {
+        "raw_name": "Heather Domereckyj",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Domerackyj, Heather Domereckyj"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Dryburgh",
+    "first_appearance": "2019-05-08",
+    "last_appearance": "2019-05-08",
+    "title": "Acting Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Dryburgh",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Dryburgh"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Dryden",
+    "first_appearance": "2017-06-13",
+    "last_appearance": "2017-06-13",
+    "title": "Senior Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Dryden",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Dryden"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Earle",
+    "first_appearance": "2022-11-03",
+    "last_appearance": "2024-11-05",
+    "title": "Manager",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Heather Earle",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Heather  Earle, Heather Earle"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Egan",
+    "first_appearance": "2023-10-31",
+    "last_appearance": "2024-02-15",
+    "title": "Office Manager and Finance Administrator",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Egan",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Egan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Elliot",
+    "first_appearance": "2024-08-08",
+    "last_appearance": "2024-08-08",
+    "title": "Senior Business Analyst",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Elliot",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather  Elliot"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Elliott",
+    "first_appearance": "2019-11-25",
+    "last_appearance": "2019-11-25",
+    "title": "Senior Advisor to Deputy Minister Champion",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Elliott",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Elliott"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Finn",
+    "first_appearance": "2011-11-22",
+    "last_appearance": "2011-11-22",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Finn",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Finn"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Foley Melvin",
+    "first_appearance": "2012-11-02",
+    "last_appearance": "2015-07-23",
+    "title": "Director, Regional Affairs",
+    "Count": 13,
+    "variants": [
+      {
+        "raw_name": "Heather Foley Melvin",
+        "count": 8
+      },
+      {
+        "raw_name": "Heather Foley-melvin",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Heather Foley Melvin, Heather Foley-Melvin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Forsyth",
+    "first_appearance": "2018-12-04",
+    "last_appearance": "2020-02-25",
+    "title": "Policy Advisor",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Heather Forsyth",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Heather Forsyth"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Gordon",
+    "first_appearance": "2023-08-10",
+    "last_appearance": "2023-08-10",
+    "title": "Manager, Canadian Water Agency Transition Office",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Gordon",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Gordon"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Hall",
+    "first_appearance": "2011-09-09",
+    "last_appearance": "2017-07-25",
+    "title": "Associate Director",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Heather Hall",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Heather Hall"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Harpell",
+    "first_appearance": "2023-05-30",
+    "last_appearance": "2023-05-30",
+    "title": "Environmental Assessment Specialist",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Harpell",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Harpell"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Heather Sheehy",
+    "first_appearance": "2018-07-16",
+    "last_appearance": "2018-07-16",
+    "title": "Associate Assistant Deputy Minister, Strategic Service Policy",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Heather Sheehy",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Heather Sheehy"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Holland",
+    "first_appearance": "2023-09-14",
+    "last_appearance": "2023-10-03",
+    "title": "National Manager",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Holland",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Holland"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Hossle",
+    "first_appearance": "2024-05-13",
+    "last_appearance": "2024-05-13",
+    "title": "Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Hossle",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Hossle"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather James",
+    "first_appearance": "2009-06-01",
+    "last_appearance": "2009-06-01",
+    "title": "Chief, Pacific Operations",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather James",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather James"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Jefferey",
+    "first_appearance": "2021-11-05",
+    "last_appearance": "2021-11-05",
+    "title": "Associate Deputy Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Jefferey",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Jefferey"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Jefferies",
+    "first_appearance": "2016-09-08",
+    "last_appearance": "2016-09-08",
+    "title": "Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Jefferies",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Jefferies"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Jeffrey",
+    "first_appearance": "2012-05-09",
+    "last_appearance": "2024-04-30",
+    "title": "Assistant Deputy Minister",
+    "Count": 116,
+    "variants": [
+      {
+        "raw_name": "Heather Jeffrey",
+        "count": 114
+      },
+      {
+        "raw_name": "Heather Jeffreys",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather  Jeffrey, Heather  Jeffrey , Heather Jeffrey, Heather Jeffreys"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Kay",
+    "first_appearance": "2012-09-07",
+    "last_appearance": "2013-04-09",
+    "title": "Senior Economist",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Heather Kay",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Heather Kay"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Knudsen",
+    "first_appearance": "2021-08-30",
+    "last_appearance": "2021-09-29",
+    "title": "Team Leader",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Knudsen",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Knudsen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Leclerc",
+    "first_appearance": "2017-07-14",
+    "last_appearance": "2017-07-14",
+    "title": "Chief",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Leclerc",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Leclerc"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Limburg",
+    "first_appearance": "2021-06-24",
+    "last_appearance": "2021-06-24",
+    "title": "Epidemiologist",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Limburg",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Limburg"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Loth-bown",
+    "first_appearance": "2017-04-13",
+    "last_appearance": "2017-04-13",
+    "title": "Vice President",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Loth-bown",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Loth-Bown"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Lunn",
+    "first_appearance": "2021-01-28",
+    "last_appearance": "2021-01-28",
+    "title": "Program Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Lunn",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Lunn"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Lynch",
+    "first_appearance": "2021-05-12",
+    "last_appearance": "2024-04-18",
+    "title": "Manager | Senior Policy Advisor",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Heather Lynch",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Heather Lynch"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Macdonald",
+    "first_appearance": "2021-06-30",
+    "last_appearance": "2022-08-15",
+    "title": "Advisor",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Heather Macdonald",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Heather  MacDonald, Heather MacDonald, Heather Macdonald"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Maclean",
+    "first_appearance": "2023-04-24",
+    "last_appearance": "2023-04-24",
+    "title": "Assistant to the Deputy Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Maclean",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather MacLean"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Macphail",
+    "first_appearance": "2023-03-03",
+    "last_appearance": "2023-07-28",
+    "title": "Regional Executive",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Heather Macphail",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Heather MacPhail"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Mcbride",
+    "first_appearance": "2024-05-22",
+    "last_appearance": "2024-05-22",
+    "title": "Acting Deputy Director, Nutrition",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Mcbride",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather McBride"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Mccready",
+    "first_appearance": "2018-05-29",
+    "last_appearance": "2024-11-06",
+    "title": "Director General, Legislative and Regulatory Affairs",
+    "Count": 7,
+    "variants": [
+      {
+        "raw_name": "Heather Mccready",
+        "count": 7
+      }
+    ],
+    "dpoh_name_raw": "Heather McCready, Heather Mccready"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Mclean",
+    "first_appearance": "2019-02-07",
+    "last_appearance": "2024-07-29",
+    "title": "Assistant Deputy Minister",
+    "Count": 19,
+    "variants": [
+      {
+        "raw_name": "Heather Mclean",
+        "count": 19
+      }
+    ],
+    "dpoh_name_raw": "Heather  McLean, Heather  McLean , Heather McLean"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Mcpherson",
+    "first_appearance": "2019-12-09",
+    "last_appearance": "2025-06-03",
+    "title": "Member of Parliament",
+    "Count": 368,
+    "variants": [
+      {
+        "raw_name": "Heather Macpherson",
+        "count": 4
+      },
+      {
+        "raw_name": "Heather Mcpherson",
+        "count": 364
+      }
+    ],
+    "dpoh_name_raw": "Heather  MacPherson, Heather  McPherson, Heather MacPherson, Heather Macpherson, Heather McPherson, Heather McPherson , Heather McPherson,, Heather Mcpherson, Ms Heather McPherson, M.P., heather  mcpherson "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Mcvetty",
+    "first_appearance": "2023-08-15",
+    "last_appearance": "2023-08-15",
+    "title": "Advisor, Telecommunications",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Mcvetty",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather  McVetty "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Meek",
+    "first_appearance": "2020-07-30",
+    "last_appearance": "2022-03-23",
+    "title": "Senior Policy Analyst",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Heather Meek",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Heather Meek"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Messera",
+    "first_appearance": "2024-01-09",
+    "last_appearance": "2024-01-09",
+    "title": "Congressional Relations Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Messera",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Messera"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Michaud",
+    "first_appearance": "2021-04-09",
+    "last_appearance": "2022-01-24",
+    "title": "Assistant Director",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Michaud",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Michaud"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Miller",
+    "first_appearance": "2017-07-28",
+    "last_appearance": "2017-07-28",
+    "title": "Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Miller",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Miller"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Moriarty",
+    "first_appearance": "2016-02-18",
+    "last_appearance": "2023-09-26",
+    "title": "Director",
+    "Count": 8,
+    "variants": [
+      {
+        "raw_name": "Heather Moriarty",
+        "count": 8
+      }
+    ],
+    "dpoh_name_raw": "Heather  Moriarty , Heather Moriarty"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Mustoe",
+    "first_appearance": "2021-09-23",
+    "last_appearance": "2021-10-18",
+    "title": "Senior Partnership Lead",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Mustoe",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Mustoe"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather O'mara",
+    "first_appearance": "2021-09-08",
+    "last_appearance": "2022-08-24",
+    "title": "Counsel",
+    "Count": 11,
+    "variants": [
+      {
+        "raw_name": "Heather O'mara",
+        "count": 11
+      }
+    ],
+    "dpoh_name_raw": "Heather  O'Mara, Heather O'Mara"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Patterson",
+    "first_appearance": "2023-02-10",
+    "last_appearance": "2023-06-14",
+    "title": "Deputy Director, Middle East, Europe and North Africa",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Heather Patterson",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Heather Patterson, heather patterson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Pherson",
+    "first_appearance": "2020-02-04",
+    "last_appearance": "2020-02-04",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Pherson",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Pherson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Poitras",
+    "first_appearance": "2023-08-31",
+    "last_appearance": "2023-08-31",
+    "title": "Elder in Residence",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Poitras",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather  Poitras"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Porter",
+    "first_appearance": "2018-03-28",
+    "last_appearance": "2018-05-17",
+    "title": "Policy Advisor",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Heather Porter",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Heather Porter"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Primeau",
+    "first_appearance": "2014-10-01",
+    "last_appearance": "2014-10-01",
+    "title": "Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Primeau",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Primeau"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Ryan",
+    "first_appearance": "2018-11-28",
+    "last_appearance": "2018-11-28",
+    "title": "Policy and Program Analyst",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Ryan",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Ryan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Shearer",
+    "first_appearance": "2022-01-28",
+    "last_appearance": "2024-11-20",
+    "title": "Policy and Program Manager",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Heather Shearer",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Heather Shearer"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Sheehy",
+    "first_appearance": "2018-05-25",
+    "last_appearance": "2019-09-11",
+    "title": "Associate Assistant Deputy Minister",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Heather Sheehy",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Heather Sheehy"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Simmons",
+    "first_appearance": "2020-08-20",
+    "last_appearance": "2020-08-20",
+    "title": "Director, Product Assessment and Environmental Assessment Directorate",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Simmons",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Simmons"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Smeeton",
+    "first_appearance": "2024-04-19",
+    "last_appearance": "2024-04-19",
+    "title": "First Secretary, Finance Counsellor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Smeeton",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Smeeton"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Smith",
+    "first_appearance": "2009-06-29",
+    "last_appearance": "2018-11-06",
+    "title": "Vice President, Operations",
+    "Count": 106,
+    "variants": [
+      {
+        "raw_name": "Heather Smith",
+        "count": 106
+      }
+    ],
+    "dpoh_name_raw": "Heather Smith"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Spencer",
+    "first_appearance": "2016-01-21",
+    "last_appearance": "2016-01-21",
+    "title": "Senior Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Spencer",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Spencer"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Stager",
+    "first_appearance": "2021-07-14",
+    "last_appearance": "2021-07-14",
+    "title": "Senior Analyst",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Stager",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Stager"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Throop",
+    "first_appearance": "2010-12-07",
+    "last_appearance": "2010-12-07",
+    "title": "Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Throop",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Throop"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Upton-roy",
+    "first_appearance": "2020-12-10",
+    "last_appearance": "2020-12-10",
+    "title": "Constituency Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Upton-roy",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Upton-Roy"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Watson",
+    "first_appearance": "2020-03-23",
+    "last_appearance": "2023-04-19",
+    "title": "Senior Program Officer",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Heather Watson",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heather Watson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Wood",
+    "first_appearance": "2021-01-07",
+    "last_appearance": "2024-07-12",
+    "title": "Director, International Fisheries Policy",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Heather Wood",
+        "count": 4
+      },
+      {
+        "raw_name": "Heather Woods",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Wood, Heather Woods"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heather Zaleski",
+    "first_appearance": "2023-05-25",
+    "last_appearance": "2023-05-25",
+    "title": "Parliamentary Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heather Zaleski",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heather Zaleski"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heba Jibril",
+    "first_appearance": "2020-02-18",
+    "last_appearance": "2022-10-28",
+    "title": "Parliamentary Assistant",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Heba Jibril",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Heba Jibril"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hector Lopez-negrete",
+    "first_appearance": "2017-08-15",
+    "last_appearance": "2017-08-15",
+    "title": "Executive Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hector Lopez-negrete",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hector Lopez-Negrete"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hector Vera",
+    "first_appearance": "2014-06-03",
+    "last_appearance": "2018-05-29",
+    "title": "Parliamentary Assistant",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Hector Vera",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Hector Vera"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hedy Church",
+    "first_appearance": "2013-11-05",
+    "last_appearance": "2013-11-05",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hedy Church",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hon. Hedy Church"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hedy Fry",
+    "first_appearance": "2009-02-10",
+    "last_appearance": "2025-03-03",
+    "title": "Member of Parliament",
+    "Count": 477,
+    "variants": [
+      {
+        "raw_name": "Heddy Fry",
+        "count": 3
+      },
+      {
+        "raw_name": "Hedi Fry",
+        "count": 1
+      },
+      {
+        "raw_name": "Hedy Frey",
+        "count": 1
+      },
+      {
+        "raw_name": "Hedy Fry",
+        "count": 472
+      }
+    ],
+    "dpoh_name_raw": "Dr Hedy Fry, Dr. Hedy Fry, HEDY FRY, Heddy Fry, Hedi Fry, Hedy (Dr.) Fry, Hedy Frey, Hedy Fry, Hedy Fry MP, Hedy fry, Hon Hedy Fry, Hon. Dr. Hedy Fry, Hon. Hedy Fry, Honourable Hedy Fry, The Hon. Dr. Hedy Fry, The Hon. Hedy Fry, The Honourable Dr.  Hedy  Fry, P.C., M.P. , The Honourable Dr.  Hedy Fry, The Honourable Dr. Hedy  Fry , The Honourable Dr. Hedy Fry, P.C., M.P., The Honourable Hedy Fry, The Honourable Hedy Fry, P.C., M.P."
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heidi Craswell",
+    "first_appearance": "2020-06-24",
+    "last_appearance": "2020-06-24",
+    "title": "Manager | Senior Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heidi Craswell",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heidi Craswell"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heidi Ertl",
+    "first_appearance": "2023-06-15",
+    "last_appearance": "2023-06-15",
+    "title": "Assistant Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heidi Ertl",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heidi Ertl"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heidi Hofstad",
+    "first_appearance": "2015-01-23",
+    "last_appearance": "2015-01-23",
+    "title": "Communications Manager",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heidi Hofstad",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heidi Hofstad"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heidi Hulan",
+    "first_appearance": "2022-06-06",
+    "last_appearance": "2024-06-07",
+    "title": "Assistant Deputy Minister",
+    "Count": 13,
+    "variants": [
+      {
+        "raw_name": "Heidi Hulan",
+        "count": 13
+      }
+    ],
+    "dpoh_name_raw": "Heidi  Hulan, Heidi Hulan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heidi Jackson",
+    "first_appearance": "2018-02-20",
+    "last_appearance": "2018-02-20",
+    "title": "Executive Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heidi Jackson",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heidi Jackson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heidy Kirby",
+    "first_appearance": "2020-01-16",
+    "last_appearance": "2021-02-09",
+    "title": "Assistant",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Heidi Kirby",
+        "count": 1
+      },
+      {
+        "raw_name": "Heidy Kirby",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Heidi Kirby, Heidy Kirby"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heidi Macdonald",
+    "first_appearance": "2023-10-25",
+    "last_appearance": "2023-10-25",
+    "title": "Manager",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heidi Macdonald",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heidi MacDonald"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helaine Michaud",
+    "first_appearance": "2013-02-05",
+    "last_appearance": "2014-02-04",
+    "title": "Member of Parliament",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Helaine Michaud",
+        "count": 2
+      },
+      {
+        "raw_name": "Helene Michaud",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "H\u00e9laine Michaud, H\u00e9l\u00e8ne Michaud"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Barret",
+    "first_appearance": "2012-01-25",
+    "last_appearance": "2012-01-25",
+    "title": "Program Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helen Barret",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Barret"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Broom",
+    "first_appearance": "2020-09-22",
+    "last_appearance": "2023-09-28",
+    "title": "Economist | Advisor",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Helen Broom",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Helen Broom"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Brown",
+    "first_appearance": "2010-03-10",
+    "last_appearance": "2010-03-10",
+    "title": "Director General",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Helen Brown",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Helen Brown"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen C. Kennedy",
+    "first_appearance": "2010-10-21",
+    "last_appearance": "2013-05-10",
+    "title": "Deputy Director General",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Helen C. Kennedy",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Helen C. Kennedy"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Cassie",
+    "first_appearance": "2018-01-30",
+    "last_appearance": "2018-01-30",
+    "title": "Member's Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helen Cassie",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Cassie"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Cutts",
+    "first_appearance": "2011-05-13",
+    "last_appearance": "2016-04-12",
+    "title": "Vice President",
+    "Count": 34,
+    "variants": [
+      {
+        "raw_name": "Helen Cutts",
+        "count": 34
+      }
+    ],
+    "dpoh_name_raw": "Helen Cutts"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Davies",
+    "first_appearance": "2022-05-06",
+    "last_appearance": "2022-05-06",
+    "title": "Executive Director, British Columbia and Yukon",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helen Davies",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Davies"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen El-koura",
+    "first_appearance": "2021-06-24",
+    "last_appearance": "2021-06-24",
+    "title": "Senior Advisor to Assistant Deputy Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helen El-koura",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen El-Koura"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Gao",
+    "first_appearance": "2019-02-07",
+    "last_appearance": "2025-03-12",
+    "title": "Policy Advisor",
+    "Count": 165,
+    "variants": [
+      {
+        "raw_name": "Helen Gao",
+        "count": 165
+      }
+    ],
+    "dpoh_name_raw": "Helen  Gao, Helen Gao"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Gosselin",
+    "first_appearance": "2009-09-29",
+    "last_appearance": "2016-07-27",
+    "title": "Deputy Minister, Labour",
+    "Count": 29,
+    "variants": [
+      {
+        "raw_name": "Helen Gosselin",
+        "count": 1
+      },
+      {
+        "raw_name": "Helene Gosselin",
+        "count": 28
+      }
+    ],
+    "dpoh_name_raw": "Helene Gosselin, H\u00e9l\u00e8n Gosselin, H\u00e9l\u00e8ne Gosselin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Graham",
+    "first_appearance": "2009-03-26",
+    "last_appearance": "2009-03-26",
+    "title": "Acting Director, Economic Development",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helen Graham",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Graham"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Harrison",
+    "first_appearance": "2024-10-24",
+    "last_appearance": "2024-10-24",
+    "title": "Manager",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Helen Harrison",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Helen Harrison"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Joseph",
+    "first_appearance": "2010-09-14",
+    "last_appearance": "2013-10-04",
+    "title": "Director",
+    "Count": 10,
+    "variants": [
+      {
+        "raw_name": "Helen Joseph",
+        "count": 10
+      }
+    ],
+    "dpoh_name_raw": "Helen Joseph"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Kennedy",
+    "first_appearance": "2009-06-09",
+    "last_appearance": "2018-04-17",
+    "title": "Director General",
+    "Count": 14,
+    "variants": [
+      {
+        "raw_name": "Helen C Kennedy",
+        "count": 1
+      },
+      {
+        "raw_name": "Helen Kennedy",
+        "count": 13
+      }
+    ],
+    "dpoh_name_raw": "Helen C Kennedy, Helen Kennedy"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Lam",
+    "first_appearance": "2016-05-03",
+    "last_appearance": "2016-05-03",
+    "title": "Policy Analyst",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Helen Lam",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Helen Lam"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Laverdiere",
+    "first_appearance": "2011-08-16",
+    "last_appearance": "2019-05-29",
+    "title": "Member of Parliament",
+    "Count": 145,
+    "variants": [
+      {
+        "raw_name": "Helen Laverdiere",
+        "count": 5
+      },
+      {
+        "raw_name": "Helene Lavardiere",
+        "count": 1
+      },
+      {
+        "raw_name": "Helene Lavenrdiere",
+        "count": 1
+      },
+      {
+        "raw_name": "Helene Laverdiere",
+        "count": 136
+      },
+      {
+        "raw_name": "Helene Laveridere",
+        "count": 1
+      },
+      {
+        "raw_name": "Helene Lavierdere",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Laverdiere, Helene Lavardiere, Helene Laverdiere, Helene Laverdi\u00e8re, Helene Laveridere, Helene Lavierdere, H\u00e9l\u00e8ne Lavenrdi\u00e9re, H\u00e9l\u00e8ne Laverdi\u00e8re, H\u00e9l\u00e8ne Laverdi\u00e8re MP"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Levesque",
+    "first_appearance": "2010-03-18",
+    "last_appearance": "2010-03-18",
+    "title": "Migratory Birds Regulations Specialist",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helen Levesque",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Levesque"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Mcdonald",
+    "first_appearance": "2008-09-29",
+    "last_appearance": "2012-11-14",
+    "title": "Assistant Deputy Minister",
+    "Count": 141,
+    "variants": [
+      {
+        "raw_name": "Helem Mcdonald",
+        "count": 1
+      },
+      {
+        "raw_name": "Helen Macdonald",
+        "count": 9
+      },
+      {
+        "raw_name": "Helen Mcdonald",
+        "count": 129
+      },
+      {
+        "raw_name": "Helen Mcdonlad",
+        "count": 1
+      },
+      {
+        "raw_name": "Helene Mcdonald",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "HELEN MCDONALD, Helem McDonald, Helen MacDonald, Helen McDonald, Helen McDonlad, Helen Mcdonald, Helene McDonald"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Mcelroy",
+    "first_appearance": "2009-06-16",
+    "last_appearance": "2018-10-11",
+    "title": "Director General",
+    "Count": 15,
+    "variants": [
+      {
+        "raw_name": "Helen Mcelroy",
+        "count": 15
+      }
+    ],
+    "dpoh_name_raw": "Helen McElroy"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Nowers",
+    "first_appearance": "2019-06-11",
+    "last_appearance": "2019-06-11",
+    "title": "Special Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helen Nowers",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Nowers"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Ryan",
+    "first_appearance": "2009-09-09",
+    "last_appearance": "2023-08-09",
+    "title": "Associate Assistant Deputy Minister",
+    "Count": 175,
+    "variants": [
+      {
+        "raw_name": "Helen Rayn",
+        "count": 1
+      },
+      {
+        "raw_name": "Helen Ryan",
+        "count": 174
+      }
+    ],
+    "dpoh_name_raw": "Helen Rayn, Helen Ryan, helen ryan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Smiley",
+    "first_appearance": "2010-05-28",
+    "last_appearance": "2024-12-10",
+    "title": "Director General",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Helen Smiley",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Helen  Smiley , Helen Smiley"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helen Wong",
+    "first_appearance": "2015-11-17",
+    "last_appearance": "2017-03-07",
+    "title": "Senior Supervisor",
+    "Count": 20,
+    "variants": [
+      {
+        "raw_name": "Helen Wong",
+        "count": 20
+      }
+    ],
+    "dpoh_name_raw": "Helen Wong"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Borges",
+    "first_appearance": "2008-07-02",
+    "last_appearance": "2017-12-04",
+    "title": "Associate Deputy Minister",
+    "Count": 166,
+    "variants": [
+      {
+        "raw_name": "Helen Borges",
+        "count": 2
+      },
+      {
+        "raw_name": "Helena Borges",
+        "count": 163
+      },
+      {
+        "raw_name": "Helena Borgis",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Borges, Helena Borges, Helena Borgis"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Botelho",
+    "first_appearance": "2020-06-04",
+    "last_appearance": "2024-12-18",
+    "title": "Manager",
+    "Count": 11,
+    "variants": [
+      {
+        "raw_name": "Helena Botelho",
+        "count": 11
+      }
+    ],
+    "dpoh_name_raw": "Helena  Botelho, Helena Botelho"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Botelho Botelho",
+    "first_appearance": "2023-06-01",
+    "last_appearance": "2023-06-01",
+    "title": "Executive Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helena Botelho Botelho",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helena Botelho Botelho"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Geurgis",
+    "first_appearance": "2011-02-10",
+    "last_appearance": "2011-02-10",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helena Geurgis",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helena Geurgis"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Guergis",
+    "first_appearance": "2008-07-28",
+    "last_appearance": "2010-02-28",
+    "title": "Minister of State",
+    "Count": 9,
+    "variants": [
+      {
+        "raw_name": "Helena Guergis",
+        "count": 9
+      }
+    ],
+    "dpoh_name_raw": "HELENA GUERGIS, Helena Guergis"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Jaczek",
+    "first_appearance": "2019-12-16",
+    "last_appearance": "2025-06-12",
+    "title": "Member of Parliament",
+    "Count": 153,
+    "variants": [
+      {
+        "raw_name": "Helena Jacek",
+        "count": 1
+      },
+      {
+        "raw_name": "Helena Jaczek",
+        "count": 150
+      },
+      {
+        "raw_name": "Helena Jaczyk",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Dr. Helena Jaczek, Helena Jacek, Helena Jaczek, Helena Jaczyk, Hon. Helena Jaczek, The Hon. Helena  Jaczek "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Kojo",
+    "first_appearance": "2021-04-26",
+    "last_appearance": "2024-09-11",
+    "title": "Advance",
+    "Count": 8,
+    "variants": [
+      {
+        "raw_name": "Helena Kojo",
+        "count": 8
+      }
+    ],
+    "dpoh_name_raw": "Helena  Kojo, Helena Kojo"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Konanz",
+    "first_appearance": "2025-06-11",
+    "last_appearance": "2025-06-11",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helena Konanz",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helena Konanz"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helena Olivas-bosquet",
+    "first_appearance": "2022-08-11",
+    "last_appearance": "2022-08-11",
+    "title": "Special Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helena Olivas-bosquet",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helena Olivas-Bosquet"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Girard",
+    "first_appearance": "2015-04-20",
+    "last_appearance": "2015-05-04",
+    "title": "Director, Africa, Middle East and Europe",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Helene Girard",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "H\u00e9l\u00e8ne Girard"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Giroux",
+    "first_appearance": "2011-03-01",
+    "last_appearance": "2013-01-29",
+    "title": "Director General",
+    "Count": 8,
+    "variants": [
+      {
+        "raw_name": "Helene Giroux",
+        "count": 8
+      }
+    ],
+    "dpoh_name_raw": "Helene Giroux, H\u00e9l\u00e8ne Giroux"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Laurendeau",
+    "first_appearance": "2010-11-25",
+    "last_appearance": "2021-02-18",
+    "title": "Deputy Minister",
+    "Count": 54,
+    "variants": [
+      {
+        "raw_name": "Helen Laurendeau",
+        "count": 4
+      },
+      {
+        "raw_name": "Helene Laurendau",
+        "count": 1
+      },
+      {
+        "raw_name": "Helene Laurendeau",
+        "count": 48
+      },
+      {
+        "raw_name": "Helene Laurendeaux",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helen Laurendeau, Helene Laurendeau, Helene Laurendeaux, H\u00e9l\u00e8ne Laurendau, H\u00e9l\u00e8ne Laurendeau, H\u00e9l\u00e8ne Laurendeau,"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Laverdiere Ndp Foreign Affairs C",
+    "first_appearance": "2018-02-07",
+    "last_appearance": "2018-02-07",
+    "title": "Foreign Affairs Critic",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Helene Laverdiere Ndp Foreign Affairs C",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "H\u00e9l\u00e8ne Laverdi\u00e8re, NDP Foreign Affairs c"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Leblanc",
+    "first_appearance": "2011-08-16",
+    "last_appearance": "2015-06-04",
+    "title": "Member of Parliament",
+    "Count": 152,
+    "variants": [
+      {
+        "raw_name": "Helene Leblanc",
+        "count": 151
+      },
+      {
+        "raw_name": "Helene Leblance",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Helene LeBlanc, Helene Leblanc, Helene Leblance, H\u00e9lene Leblanc, M.P., H\u00e9l\u00e8ne LeBlanc, H\u00e9l\u00e8ne LeBlanc, M.P., H\u00e9l\u00e8ne Leblanc, Ms. H\u00e9l\u00e8ne LeBlanc, M.P."
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Marquis",
+    "first_appearance": "2011-11-30",
+    "last_appearance": "2020-02-28",
+    "title": "Acting Director General, Ecosystems Management Directorate",
+    "Count": 7,
+    "variants": [
+      {
+        "raw_name": "Helene Marquis",
+        "count": 7
+      }
+    ],
+    "dpoh_name_raw": "Helene Marquis, H\u00e9l\u00e8ne Marquis"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Payette",
+    "first_appearance": "2023-03-30",
+    "last_appearance": "2023-10-30",
+    "title": "Director",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Helene Payette",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Helene Payette"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Pepin",
+    "first_appearance": "2020-09-09",
+    "last_appearance": "2025-06-05",
+    "title": "Advisor, Industrial Technology",
+    "Count": 76,
+    "variants": [
+      {
+        "raw_name": "Helene Pepin",
+        "count": 76
+      }
+    ],
+    "dpoh_name_raw": "Helene Pepin, H\u00e9l\u00e8ne P\u00e9pin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Picard",
+    "first_appearance": "2020-08-12",
+    "last_appearance": "2023-02-16",
+    "title": "Director General",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Helen Picard",
+        "count": 1
+      },
+      {
+        "raw_name": "Helene Picard",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Helen  Picard, Helene  Picard, Helene Picard"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Renaud",
+    "first_appearance": "2010-09-01",
+    "last_appearance": "2010-09-01",
+    "title": "Advisor",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Helene Renaud",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "H\u00e9l\u00e9ne Renaud"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Helene Robichaud",
+    "first_appearance": "2020-05-04",
+    "last_appearance": "2020-05-11",
+    "title": "Director General, Trade, Investment and Growth",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Helene Robichaud",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "H\u00e9l\u00e8ne Robichaud"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hella Chkir",
+    "first_appearance": "2017-07-12",
+    "last_appearance": "2024-06-07",
+    "title": "Senior Investment Analyst, Strategic Innovation Fund, Operations Directorate",
+    "Count": 13,
+    "variants": [
+      {
+        "raw_name": "Hella Chkir",
+        "count": 13
+      }
+    ],
+    "dpoh_name_raw": "Hella Chkir"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heloise Levesque-guitard",
+    "first_appearance": "2022-05-11",
+    "last_appearance": "2024-11-19",
+    "title": "Manager",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Heloise Levesque-guitard",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Heloise Levesque-Guitard, H\u00e9lo\u00efse L\u00e9vesque-Guitard, H\u00e9lo\u00efse L\u00e9vesque-guitard "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hema Paupiah",
+    "first_appearance": "2023-10-13",
+    "last_appearance": "2023-10-13",
+    "title": "Digital Transformation Lead",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hema Paupiah",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hema Paupiah"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hena Masjedee",
+    "first_appearance": "2023-02-06",
+    "last_appearance": "2023-09-21",
+    "title": "Desk Officer, El Salvador",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hena Masjedee",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hena Masjedee"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hendric Brakel",
+    "first_appearance": "2019-03-22",
+    "last_appearance": "2019-03-22",
+    "title": "Senior Economic Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hendric Brakel",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hendric Brakel"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hendrick Brake",
+    "first_appearance": "2019-02-04",
+    "last_appearance": "2019-02-04",
+    "title": "Special Assistant and Stakeholder Relations Advisor, Office of the Leader of the Opposition",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hendrick Brake",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hendrick Brake"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hendrik Brakel",
+    "first_appearance": "2017-11-28",
+    "last_appearance": "2022-03-31",
+    "title": "Senior Policy Advisor",
+    "Count": 227,
+    "variants": [
+      {
+        "raw_name": "Hedrik Brakel",
+        "count": 1
+      },
+      {
+        "raw_name": "Hendrick Brakel",
+        "count": 10
+      },
+      {
+        "raw_name": "Hendrik Bracker",
+        "count": 1
+      },
+      {
+        "raw_name": "Hendrik Brakel",
+        "count": 212
+      },
+      {
+        "raw_name": "Hendrik Brakell",
+        "count": 1
+      },
+      {
+        "raw_name": "Hendrik Braker",
+        "count": 1
+      },
+      {
+        "raw_name": "Henrik Brackel",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hedrik Brakel, Hendrick Brakel, Hendrik Bracker, Hendrik Brakel, Hendrik Brakell, Hendrik Braker, Henrik Brackel, hendrik brakel"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hendrik Brakle",
+    "first_appearance": "2019-05-06",
+    "last_appearance": "2019-05-06",
+    "title": "Senior Economic Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hendrik Brakle",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hendrik Brakle"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hendrik Brokei",
+    "first_appearance": "2021-02-16",
+    "last_appearance": "2021-02-16",
+    "title": "Chief Economic Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hendrik Brokei",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hendrik Brokei"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hendrik Hendrik Brakel",
+    "first_appearance": "2021-01-07",
+    "last_appearance": "2021-01-07",
+    "title": "Senior Economic Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hendrik Hendrik Brakel",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hendrik Hendrik Brakel"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hendrik J. Kuipers",
+    "first_appearance": "2017-11-08",
+    "last_appearance": "2017-11-08",
+    "title": "First Secretary and Trade Commissioner",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hendrik J. Kuipers",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hendrik J. Kuipers"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hendrik Taulin",
+    "first_appearance": "2021-08-17",
+    "last_appearance": "2025-03-31",
+    "title": "Senior Investment Officer",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hendrick Taulin",
+        "count": 1
+      },
+      {
+        "raw_name": "Hendrik Taulin",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hendrick Taulin, Hendrik Taulin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henri Borque",
+    "first_appearance": "2018-09-07",
+    "last_appearance": "2018-09-07",
+    "title": "Parliamentary Affairs Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henri Borque",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henri Borque"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henri Bourque",
+    "first_appearance": "2018-08-30",
+    "last_appearance": "2018-09-19",
+    "title": "Policy Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Henri Bourque",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Henri Bourque"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henri Huard",
+    "first_appearance": "2021-03-19",
+    "last_appearance": "2021-03-19",
+    "title": "Senior Program Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henri Huard",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henri Huard"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henri Sader",
+    "first_appearance": "2011-06-08",
+    "last_appearance": "2012-05-07",
+    "title": "Legislative Affairs",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Henri Sader",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Henri Sader"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henri Sadr",
+    "first_appearance": "2017-03-20",
+    "last_appearance": "2017-03-20",
+    "title": "Staffer to Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henri Sadr",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henri Sadr"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henrik Brakel",
+    "first_appearance": "2018-02-14",
+    "last_appearance": "2021-11-02",
+    "title": "Chief Economic Advisor",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Hendrik Brackel",
+        "count": 1
+      },
+      {
+        "raw_name": "Henrik Brakel",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hendrik Brackel, Henrik Brakel"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henrique Santos",
+    "first_appearance": "2018-08-22",
+    "last_appearance": "2018-08-22",
+    "title": "Manager, Industry and Technological Benefits",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henrique Santos",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henrique Santos"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henry Adlam",
+    "first_appearance": "2023-06-19",
+    "last_appearance": "2023-06-19",
+    "title": "Policy Analyst",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henry Adlam",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henry Adlam"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henry Orbach-miller",
+    "first_appearance": "2022-02-24",
+    "last_appearance": "2022-02-24",
+    "title": "Policy Analyst",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henry Orbach-miller",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henry Orbach-Miller"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henry Paiken",
+    "first_appearance": "2019-02-26",
+    "last_appearance": "2019-02-26",
+    "title": "Parliamentary Research Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henry Paiken",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henry Paiken"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henry Paikin",
+    "first_appearance": "2019-04-10",
+    "last_appearance": "2020-09-01",
+    "title": "Parliamentary Affairs Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Henry Paikin",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Henry Paikin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henry Smith",
+    "first_appearance": "2016-12-02",
+    "last_appearance": "2016-12-02",
+    "title": "Senior Policy Analyst, Climate Change Analysis and Resilience",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henry Smith",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henry Smith"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henry Trim",
+    "first_appearance": "2022-05-11",
+    "last_appearance": "2022-05-11",
+    "title": "Economist",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henry Trim",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henry Trim"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henry Wells",
+    "first_appearance": "2017-08-30",
+    "last_appearance": "2017-08-30",
+    "title": "Senior Political and Economic Relations Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Henry Wells",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Henry Wells"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Henry Wright",
+    "first_appearance": "2016-12-01",
+    "last_appearance": "2018-06-07",
+    "title": "Staffer",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Henry Wright",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Henry Wright"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heremenegilde Twagiramungu",
+    "first_appearance": "2011-07-26",
+    "last_appearance": "2011-07-26",
+    "title": "Manager, Water Sector",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Heremenegilde Twagiramungu",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Heremenegilde Twagiramungu"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Herman Cheung",
+    "first_appearance": "2009-11-13",
+    "last_appearance": "2009-11-13",
+    "title": "Technology and Advertising and Market Research Unit",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Herman Cheung",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Herman Cheung"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hermel Vienneau",
+    "first_appearance": "2008-12-23",
+    "last_appearance": "2008-12-23",
+    "title": "Vice President, New Brunswick",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hermel Vienneau",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hermel Vienneau"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hermenegilde Twagiramungu",
+    "first_appearance": "2011-06-07",
+    "last_appearance": "2011-10-07",
+    "title": "Head",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Hermenegilde Twagiramungu",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Hermenegilde Twagiramungu"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hermine Landry",
+    "first_appearance": "2025-03-04",
+    "last_appearance": "2025-03-04",
+    "title": "Press Attach\u00e9",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hermine Landry",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hermine Landry"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Herscha Goldberg",
+    "first_appearance": "2018-09-26",
+    "last_appearance": "2018-09-26",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Herscha Goldberg",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Herscha Goldberg"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hersha Goldberg",
+    "first_appearance": "2018-04-25",
+    "last_appearance": "2018-09-26",
+    "title": "Assistant to the Chief of Staff",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hersha Goldberg",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hersha Goldberg"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hersi Hajulah",
+    "first_appearance": "2017-02-02",
+    "last_appearance": "2017-02-02",
+    "title": "Policy Advisor, Finance Canada",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hersi Hajulah",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hersi Hajulah"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hersi Halujeh",
+    "first_appearance": "2016-07-19",
+    "last_appearance": "2016-11-16",
+    "title": "Policy Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hersi Halujeh",
+        "count": 1
+      },
+      {
+        "raw_name": "Hersi Helujah",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hersi Halujeh, Hersi Helujah"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hersi Hujaleh",
+    "first_appearance": "2015-11-30",
+    "last_appearance": "2018-10-23",
+    "title": "Policy Advisor",
+    "Count": 296,
+    "variants": [
+      {
+        "raw_name": "Heasi Hujaleh",
+        "count": 1
+      },
+      {
+        "raw_name": "Hersi Hajaleh",
+        "count": 4
+      },
+      {
+        "raw_name": "Hersi Hajuleh",
+        "count": 2
+      },
+      {
+        "raw_name": "Hersi Herjaleh",
+        "count": 1
+      },
+      {
+        "raw_name": "Hersi Hujaleh",
+        "count": 286
+      },
+      {
+        "raw_name": "Hersi Hujeleh",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "HERSI HUJALEH, Heasi Hujaleh, Hersi Hajaleh, Hersi Hajuleh, Hersi Herjaleh, Hersi Hujaleh, Hersi Hujeleh"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Herve Dery",
+    "first_appearance": "2013-07-04",
+    "last_appearance": "2013-07-04",
+    "title": "Acting Librarian and Archivist of Canada",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Herve Dery",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Herv\u00e9 D\u00e9ry"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hervieux-payette Celine",
+    "first_appearance": "2014-11-18",
+    "last_appearance": "2014-11-18",
+    "title": "Senator",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hervieux-payette Celine",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hervieux-Payette C\u00e9line"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hester Soles",
+    "first_appearance": "2024-05-17",
+    "last_appearance": "2024-05-17",
+    "title": "Policy and Economic Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hester Soles",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hester Soles"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Heuts Paul",
+    "first_appearance": "2013-08-15",
+    "last_appearance": "2015-03-09",
+    "title": "Policy Advisor",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Heuts Paul",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Heuts Paul"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hewitt Ted",
+    "first_appearance": "2016-04-28",
+    "last_appearance": "2016-04-28",
+    "title": "President",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hewitt Ted",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hewitt Ted"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hiba Khalife",
+    "first_appearance": "2023-10-31",
+    "last_appearance": "2023-10-31",
+    "title": "Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hiba Khalife",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hiba Khalife"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hibo Abdillahi",
+    "first_appearance": "2022-07-18",
+    "last_appearance": "2022-07-18",
+    "title": "Departmental Liaison",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hibo Abdillahi",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hibo Abdillahi"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Childs-adams",
+    "first_appearance": "2014-03-05",
+    "last_appearance": "2014-03-05",
+    "title": "Ambassador",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hilary Childs-adams",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Childs-Adams"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Davis",
+    "first_appearance": "2017-09-26",
+    "last_appearance": "2017-09-26",
+    "title": "Special Assistant, Policy",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hilary Davis",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hilary Davis"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Dawson",
+    "first_appearance": "2016-06-10",
+    "last_appearance": "2016-06-10",
+    "title": "Executive Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hilary Dawson",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Dawson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Esmonde-white",
+    "first_appearance": "2016-01-06",
+    "last_appearance": "2016-06-09",
+    "title": "Director, Clean Tech, Infrastructure and Life Sciences",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hilary Esmonde-white",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hilary Esmonde-White"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Flett",
+    "first_appearance": "2021-09-03",
+    "last_appearance": "2021-09-04",
+    "title": "Executive Director",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hilary Flett",
+        "count": 1
+      },
+      {
+        "raw_name": "Hillary Flett",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Flett, Hillary Flett"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Geller",
+    "first_appearance": "2011-03-04",
+    "last_appearance": "2024-04-15",
+    "title": "Assistant Deputy Minister",
+    "Count": 208,
+    "variants": [
+      {
+        "raw_name": "Hiilary Geller",
+        "count": 1
+      },
+      {
+        "raw_name": "Hilary Gellar",
+        "count": 6
+      },
+      {
+        "raw_name": "Hilary Geller",
+        "count": 186
+      },
+      {
+        "raw_name": "Hilary Glller",
+        "count": 1
+      },
+      {
+        "raw_name": "Hillary Geller",
+        "count": 14
+      }
+    ],
+    "dpoh_name_raw": "Hiilary Geller, Hilary  Geller, Hilary Gellar, Hilary Geller, Hilary Glller, Hillary  Geller, Hillary Geller"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Geller Geller",
+    "first_appearance": "2017-06-19",
+    "last_appearance": "2017-06-19",
+    "title": "Assistant Deputy Minister, Strategic Policy",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hilary Geller Geller",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Geller Geller"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Hedriks",
+    "first_appearance": "2023-06-07",
+    "last_appearance": "2023-06-07",
+    "title": "Special Assistant to Policy and Operations | Executive Assistant to the Chief of Staff",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hilary Hedriks",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Hedriks"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Hendriks",
+    "first_appearance": "2020-03-03",
+    "last_appearance": "2025-02-20",
+    "title": "Policy Advisor",
+    "Count": 17,
+    "variants": [
+      {
+        "raw_name": "Hilary Hendrick",
+        "count": 1
+      },
+      {
+        "raw_name": "Hilary Hendricks",
+        "count": 5
+      },
+      {
+        "raw_name": "Hilary Hendriks",
+        "count": 10
+      },
+      {
+        "raw_name": "Hillary Hendricks",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary  Hendriks, Hilary Hendrick, Hilary Hendricks, Hilary Hendriks, Hillary Hendricks"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Hove",
+    "first_appearance": "2022-09-28",
+    "last_appearance": "2024-05-01",
+    "title": "Senior Policy Advisor",
+    "Count": 8,
+    "variants": [
+      {
+        "raw_name": "Hilary Hove",
+        "count": 6
+      },
+      {
+        "raw_name": "Hillary Hove",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hilary  Hove, Hilary Hove, Hillary Hove"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Hunter",
+    "first_appearance": "2021-01-27",
+    "last_appearance": "2021-01-27",
+    "title": "Environment Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hilary Hunter",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Hunter"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Ibey",
+    "first_appearance": "2020-02-24",
+    "last_appearance": "2024-11-06",
+    "title": "Indigenous Justice Program",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hilary Ibey",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hilary  Ibey, Hilary Ibey"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Lawson",
+    "first_appearance": "2020-04-14",
+    "last_appearance": "2020-04-14",
+    "title": "Parliamentary Secretary\u2019s Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hilary Lawson",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Lawson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Leftick",
+    "first_appearance": "2016-02-23",
+    "last_appearance": "2025-05-29",
+    "title": "Advisor, Youth Affairs",
+    "Count": 44,
+    "variants": [
+      {
+        "raw_name": "Hilary Leftick",
+        "count": 44
+      }
+    ],
+    "dpoh_name_raw": "Hilary Leftick"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Martin",
+    "first_appearance": "2023-01-10",
+    "last_appearance": "2023-08-10",
+    "title": "Manager, Research",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hilary Martin",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hilary Martin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Morgan",
+    "first_appearance": "2018-03-21",
+    "last_appearance": "2025-03-07",
+    "title": "Parliamentary Secretary",
+    "Count": 19,
+    "variants": [
+      {
+        "raw_name": "Hilary Morgan",
+        "count": 19
+      }
+    ],
+    "dpoh_name_raw": "Hilary  Morgan, Hilary Morgan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Oakman",
+    "first_appearance": "2023-10-25",
+    "last_appearance": "2024-02-08",
+    "title": "Director, Aquatic Invasive Species and Species at Risk",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hilary Oakman",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hilary Oakman"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Paulin",
+    "first_appearance": "2019-03-18",
+    "last_appearance": "2019-03-18",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hilary Paulin",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Paulin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Peirce",
+    "first_appearance": "2017-02-07",
+    "last_appearance": "2025-06-05",
+    "title": "Policy Advisor",
+    "Count": 261,
+    "variants": [
+      {
+        "raw_name": "Hilary Pearce",
+        "count": 1
+      },
+      {
+        "raw_name": "Hilary Peirce",
+        "count": 239
+      },
+      {
+        "raw_name": "Hilary Perice",
+        "count": 1
+      },
+      {
+        "raw_name": "Hilary Pierce",
+        "count": 18
+      },
+      {
+        "raw_name": "Hillary Peirce",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hilary  Peirce, Hilary  Pierce, Hilary Pearce, Hilary Peirce, Hilary Perice, Hilary Pierce, Hillary Peirce, Hillary Peirce , hilary peirce"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Thatcher",
+    "first_appearance": "2021-03-31",
+    "last_appearance": "2021-03-31",
+    "title": "Senior Director, Project Development Indigenous Infrastructure",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hilary Thatcher",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hilary Thatcher"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hilary Travis",
+    "first_appearance": "2016-10-18",
+    "last_appearance": "2021-11-04",
+    "title": "Senior Policy Advisor",
+    "Count": 489,
+    "variants": [
+      {
+        "raw_name": "Hilary Travis",
+        "count": 476
+      },
+      {
+        "raw_name": "Hillary Travis",
+        "count": 13
+      }
+    ],
+    "dpoh_name_raw": "HILARY TRAVIS, Hilary Travis, Hillary Travis"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hill Margaret",
+    "first_appearance": "2013-05-02",
+    "last_appearance": "2013-05-02",
+    "title": "Legislative Counsel",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hill Margaret",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hill Margaret"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hillary Leftick",
+    "first_appearance": "2016-03-01",
+    "last_appearance": "2016-07-25",
+    "title": "Staffer to Minister",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hillary Leftick",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hillary Leftick"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hillary Morgan",
+    "first_appearance": "2020-02-06",
+    "last_appearance": "2024-12-09",
+    "title": "Policy Advisor",
+    "Count": 102,
+    "variants": [
+      {
+        "raw_name": "Hillary Morgan",
+        "count": 102
+      }
+    ],
+    "dpoh_name_raw": "Hillary Morgan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hillary Pierce",
+    "first_appearance": "2022-02-03",
+    "last_appearance": "2024-10-04",
+    "title": "Director of Policy",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hillary Pierce",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hillary Pierce"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hillary Thatcher",
+    "first_appearance": "2018-07-25",
+    "last_appearance": "2024-10-22",
+    "title": "Executive Director",
+    "Count": 9,
+    "variants": [
+      {
+        "raw_name": "Hillary Thatcher",
+        "count": 9
+      }
+    ],
+    "dpoh_name_raw": "Hillary Thatcher"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hillman Kirsten",
+    "first_appearance": "2013-05-10",
+    "last_appearance": "2013-05-10",
+    "title": "Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hillman Kirsten",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hillman Kirsten"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hisham El-bihbety",
+    "first_appearance": "2019-06-10",
+    "last_appearance": "2019-06-18",
+    "title": "Chief Information Security Officer",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hisham El-bihbety",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hisham El-Bihbety"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hissein Hirji",
+    "first_appearance": "2023-11-03",
+    "last_appearance": "2023-11-03",
+    "title": "Political Section",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hissein Hirji",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hissein Hirji"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hitesh Jain",
+    "first_appearance": "2012-02-07",
+    "last_appearance": "2012-02-07",
+    "title": "Manager",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hitesh Jain",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hitesh Jain"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hivda Morissette",
+    "first_appearance": "2019-04-01",
+    "last_appearance": "2019-04-01",
+    "title": "Project Finance Manager",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hivda Morissette",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hivda Morissette"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Ho. Tony Clement",
+    "first_appearance": "2010-12-13",
+    "last_appearance": "2010-12-13",
+    "title": "Minister, Industry",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Ho. Tony Clement",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Ho. Tony Clement"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hoang Mai",
+    "first_appearance": "2011-09-21",
+    "last_appearance": "2015-09-18",
+    "title": "Member of Parliament",
+    "Count": 87,
+    "variants": [
+      {
+        "raw_name": "Haong Mai",
+        "count": 2
+      },
+      {
+        "raw_name": "Hoang Mai",
+        "count": 83
+      },
+      {
+        "raw_name": "Hoang May",
+        "count": 1
+      },
+      {
+        "raw_name": "Hong Mai",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Haong Mai, Hoang Mai, Hoang May, Hong Mai"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hoback Randy",
+    "first_appearance": "2011-09-27",
+    "last_appearance": "2020-01-30",
+    "title": "Member of Parliament",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hoback Randy",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hoback Randy"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hobbs Sarah",
+    "first_appearance": "2011-11-02",
+    "last_appearance": "2011-11-02",
+    "title": "Financial Economist",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hobbs Sarah",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hobbs Sarah"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hobbs Steven",
+    "first_appearance": "2013-09-24",
+    "last_appearance": "2013-09-24",
+    "title": "Chief of Staff",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hobbs Steven",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hobbs Steven"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hoda Mroue",
+    "first_appearance": "2023-03-03",
+    "last_appearance": "2024-10-25",
+    "title": "Senior Programs Officer, IHA",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hoda Mroue",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hoda Mroue, hoda  mroue"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hoffman Abby",
+    "first_appearance": "2011-10-25",
+    "last_appearance": "2011-10-25",
+    "title": "Assistant Deputy Minister, Strategic Policy",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hoffman Abby",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hoffman Abby"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hollie Fischer",
+    "first_appearance": "2021-04-08",
+    "last_appearance": "2022-10-20",
+    "title": "Special Advisor",
+    "Count": 13,
+    "variants": [
+      {
+        "raw_name": "Hollie Fischer",
+        "count": 13
+      }
+    ],
+    "dpoh_name_raw": "Hollie Fischer"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hollie Mclean",
+    "first_appearance": "2020-12-17",
+    "last_appearance": "2020-12-17",
+    "title": "Senior Advisor to the Vice President",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hollie Mclean",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hollie McLean"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Cooper",
+    "first_appearance": "2022-03-10",
+    "last_appearance": "2022-03-10",
+    "title": "Vice President, Indigenous Relations",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Holly Cooper",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Holly Cooper"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Duggan",
+    "first_appearance": "2020-10-20",
+    "last_appearance": "2025-05-28",
+    "title": "Stakeholder Relations Advisor",
+    "Count": 232,
+    "variants": [
+      {
+        "raw_name": "Holly Dugan",
+        "count": 4
+      },
+      {
+        "raw_name": "Holly Duggan",
+        "count": 225
+      },
+      {
+        "raw_name": "Holly Duggen",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Holly  Duggan, Holly  Duggan , Holly Dugan, Holly Duggan, Holly Duggen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Flowers-code",
+    "first_appearance": "2021-05-12",
+    "last_appearance": "2021-05-12",
+    "title": "Assistant Deputy Minister",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Holly Flowers-code",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Holly Flowers-Code"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Grenier",
+    "first_appearance": "2022-01-20",
+    "last_appearance": "2024-04-18",
+    "title": "Chief of Staff",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Holly Grenier",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Holly  Grenier, Holly Grenier"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Herald",
+    "first_appearance": "2014-12-04",
+    "last_appearance": "2014-12-04",
+    "title": "Special Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Holly Herald",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Holly Herald"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Hunter",
+    "first_appearance": "2009-01-21",
+    "last_appearance": "2017-02-24",
+    "title": "Policy Advisor",
+    "Count": 18,
+    "variants": [
+      {
+        "raw_name": "Holly Hunter",
+        "count": 18
+      }
+    ],
+    "dpoh_name_raw": "Holly Hunter"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Johnson",
+    "first_appearance": "2024-07-31",
+    "last_appearance": "2024-07-31",
+    "title": "Special Assistant",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Holly Johnson",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Holly Johnson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Lightfoot",
+    "first_appearance": "2021-02-23",
+    "last_appearance": "2021-02-23",
+    "title": "Parks Canada",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Holly Lightfoot",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Holly Lightfoot"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Mayer",
+    "first_appearance": "2020-04-06",
+    "last_appearance": "2024-10-10",
+    "title": "Manager",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Holly Mayer",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Holly Mayer"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Mccoubrey",
+    "first_appearance": "2019-08-22",
+    "last_appearance": "2022-01-28",
+    "title": "Director, Americas Division",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Holly Mccoubrey",
+        "count": 4
+      },
+      {
+        "raw_name": "Holly Mccourbrey",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Holly McCoubrey, Holly McCourbrey"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Mccracken",
+    "first_appearance": "2019-05-01",
+    "last_appearance": "2025-02-27",
+    "title": "Director",
+    "Count": 7,
+    "variants": [
+      {
+        "raw_name": "Holly Mccracken",
+        "count": 7
+      }
+    ],
+    "dpoh_name_raw": "Holly  McCracken, Holly McCracken"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Mcmanus",
+    "first_appearance": "2019-01-23",
+    "last_appearance": "2019-01-23",
+    "title": "General Counsel",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Holly Mcmanus",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Holly McManus"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Michalchuk",
+    "first_appearance": "2013-11-21",
+    "last_appearance": "2019-05-06",
+    "title": "Staffer",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Holly Michalchuk",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Holly Michalchuk"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Palen",
+    "first_appearance": "2021-10-21",
+    "last_appearance": "2022-01-07",
+    "title": "Director",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Holly Palen",
+        "count": 1
+      },
+      {
+        "raw_name": "Holly Pallen",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Holly Palen, Holly Pallen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Smith",
+    "first_appearance": "2009-02-23",
+    "last_appearance": "2009-06-25",
+    "title": "Special Assistant",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Holly Smith",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Holly Smith"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Holly Stardom",
+    "first_appearance": "2019-12-19",
+    "last_appearance": "2020-01-13",
+    "title": "Manager, Policy Development",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Holly Stardom",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Holly Stardom"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hon.candice Bergen",
+    "first_appearance": "2016-02-03",
+    "last_appearance": "2016-02-03",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hon.candice Bergen",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hon.Candice Bergen"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hon.lawrence Macaulay",
+    "first_appearance": "2021-04-05",
+    "last_appearance": "2021-04-05",
+    "title": "Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hon.lawrence Macaulay",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hon.Lawrence MacAulay"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Honey Walsh",
+    "first_appearance": "2020-06-24",
+    "last_appearance": "2020-06-24",
+    "title": "Acting Chief, National Pleasure Craft Operator Competency Program",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Honey Walsh",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Honey Walsh"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hong-won Yu",
+    "first_appearance": "2016-01-20",
+    "last_appearance": "2021-06-23",
+    "title": "Deputy Director",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hong-won Yu",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hong-Won Yu"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Honoruable Percy Mockler",
+    "first_appearance": "2017-02-14",
+    "last_appearance": "2017-02-14",
+    "title": "Senator",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Honoruable Percy Mockler",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "The Honoruable Senator Percy Mockler"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Honourablel Dan Vandal",
+    "first_appearance": "2020-04-09",
+    "last_appearance": "2020-04-09",
+    "title": "Minister, Northern Affairs",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Honourablel Dan Vandal",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "The Honourablel Dan Vandal"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hoonourable Rene Cormier",
+    "first_appearance": "2024-02-01",
+    "last_appearance": "2024-02-01",
+    "title": "Senator",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hoonourable Rene Cormier",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "The Hoonourable Rene Cormier "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hoori Hamboyan",
+    "first_appearance": "2023-06-22",
+    "last_appearance": "2023-06-22",
+    "title": "Senior Policy Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hoori Hamboyan",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hoori Hamboyan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Horourable Lawrence Macaulay",
+    "first_appearance": "2014-02-04",
+    "last_appearance": "2014-02-04",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Horourable Lawrence Macaulay",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "The Horourable Lawrence MacAulay"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Horvath Steve",
+    "first_appearance": "2013-02-26",
+    "last_appearance": "2013-02-26",
+    "title": "President and Chief Executive",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Horvath Steve",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "horvath steve"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hosai Halim",
+    "first_appearance": "2024-04-16",
+    "last_appearance": "2024-11-26",
+    "title": "Policy Advisor",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Hosai Halim",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Hosai Halim"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hosai Zurmati Halim",
+    "first_appearance": "2022-10-17",
+    "last_appearance": "2024-11-28",
+    "title": "Policy Advisor",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Hosai Zurmati Halim",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Hosai Zurmati Halim"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hosaizurmati Halim",
+    "first_appearance": "2024-06-19",
+    "last_appearance": "2024-07-12",
+    "title": "Analyst",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hosaizurmati Halim",
+        "count": 1
+      },
+      {
+        "raw_name": "Hosaizurmati Harim",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "hosaizurmati Halim, hosaizurmati Harim"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hossain Bianca",
+    "first_appearance": "2020-10-09",
+    "last_appearance": "2023-06-28",
+    "title": "Policy Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hossain Bianca",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hossain Bianca"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hossein Behzadi",
+    "first_appearance": "2021-10-22",
+    "last_appearance": "2021-10-22",
+    "title": "Chief, Audit and Evaluation Executive",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hossein Behzadi",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hossein Behzadi"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Houle Marie-josee",
+    "first_appearance": "2023-02-15",
+    "last_appearance": "2023-02-15",
+    "title": "Federal Housing Advocate",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Houle Marie-josee",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Houle Marie-Jos\u00e9e "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Houngtry Thomas",
+    "first_appearance": "2025-03-14",
+    "last_appearance": "2025-03-14",
+    "title": "Parliamentary Secretary",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Houngtry Thomas",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Houngtry Thomas"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Houston Meding",
+    "first_appearance": "2016-11-22",
+    "last_appearance": "2016-11-22",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Houston Meding",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Houston Meding"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hovan Baghdassarian",
+    "first_appearance": "2024-03-05",
+    "last_appearance": "2024-03-05",
+    "title": "Executive Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hovan Baghdassarian",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hovan Baghdassarian "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Albrect",
+    "first_appearance": "2015-04-01",
+    "last_appearance": "2015-04-01",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Howard Albrect",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Howard Albrect"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Alper",
+    "first_appearance": "2008-07-10",
+    "last_appearance": "2015-03-24",
+    "title": "Chair",
+    "Count": 24,
+    "variants": [
+      {
+        "raw_name": "Howard Alper",
+        "count": 24
+      }
+    ],
+    "dpoh_name_raw": "Howard Alper"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Anglin",
+    "first_appearance": "2011-02-24",
+    "last_appearance": "2015-10-15",
+    "title": "Chief of Staff",
+    "Count": 86,
+    "variants": [
+      {
+        "raw_name": "Howard Anglin",
+        "count": 85
+      },
+      {
+        "raw_name": "Howard Englin",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "HOWARD ANGLIN, Howard Anglin, Howard Englin, howard anglin"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Greene",
+    "first_appearance": "2009-07-16",
+    "last_appearance": "2009-07-16",
+    "title": "Assistant Deputy Minister",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Howard Greene",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Howard Greene"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Jeff",
+    "first_appearance": "2011-02-23",
+    "last_appearance": "2011-02-23",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Howard Jeff",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Howard Jeff"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Migie",
+    "first_appearance": "2009-07-08",
+    "last_appearance": "2009-07-08",
+    "title": "Special Advisor",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Howard Migie",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Howard Migie"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Njoo",
+    "first_appearance": "2010-10-13",
+    "last_appearance": "2022-12-09",
+    "title": "Deputy Chief Public Health Officer",
+    "Count": 18,
+    "variants": [
+      {
+        "raw_name": "Howard Njoo",
+        "count": 18
+      }
+    ],
+    "dpoh_name_raw": "Dr. Howard  Njoo, Dr. Howard Njoo, HOWARD NJOO, Howard Njoo, howard njoo"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Pike",
+    "first_appearance": "2012-05-10",
+    "last_appearance": "2012-05-10",
+    "title": "Manager, Operations",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Howard Pike",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Howard Pike"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Sapers",
+    "first_appearance": "2016-06-06",
+    "last_appearance": "2016-11-24",
+    "title": "Corrections Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Howard Sapers",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Howard Sapers"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Wetston",
+    "first_appearance": "2017-02-14",
+    "last_appearance": "2022-02-01",
+    "title": "Senator",
+    "Count": 74,
+    "variants": [
+      {
+        "raw_name": "Howard Weston",
+        "count": 3
+      },
+      {
+        "raw_name": "Howard Wetson",
+        "count": 3
+      },
+      {
+        "raw_name": "Howard Wetston",
+        "count": 68
+      }
+    ],
+    "dpoh_name_raw": "Howard Weston, Howard Wetson, Howard Wetston, Howard Wetston, C.M., Q.C., Senator Howard Wetston"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Howard Wong",
+    "first_appearance": "2022-12-15",
+    "last_appearance": "2023-06-13",
+    "title": "Director",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Howard Wong",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Howard Wong, Howard Wong "
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hozai Zurmati",
+    "first_appearance": "2025-01-16",
+    "last_appearance": "2025-01-16",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hozai Zurmati",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hozai Zurmati"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Huard Ryan",
+    "first_appearance": "2022-07-26",
+    "last_appearance": "2022-07-26",
+    "title": "Executive Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Huard Ryan",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Huard Ryan"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hubbs Jamey",
+    "first_appearance": "2018-07-10",
+    "last_appearance": "2018-07-10",
+    "title": "Assistant Superintendent",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hubbs Jamey",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hubbs Jamey"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hubert Drolet",
+    "first_appearance": "2016-12-07",
+    "last_appearance": "2017-03-28",
+    "title": "Team Leader",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hubert Drolet",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hubert Drolet"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hubert Lacroix",
+    "first_appearance": "2014-05-14",
+    "last_appearance": "2014-05-14",
+    "title": "President and Chief Executive Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hubert Lacroix",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hubert Lacroix"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hubert Laferriere",
+    "first_appearance": "2019-01-14",
+    "last_appearance": "2019-01-14",
+    "title": "Director, Strategic Management Division",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hubert Laferriere",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hubert Laferriere"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hubert Lussier",
+    "first_appearance": "2010-05-19",
+    "last_appearance": "2018-03-27",
+    "title": "Assistant Deputy Minister",
+    "Count": 75,
+    "variants": [
+      {
+        "raw_name": "Herbert Lussier",
+        "count": 1
+      },
+      {
+        "raw_name": "Hubert Lussier",
+        "count": 74
+      }
+    ],
+    "dpoh_name_raw": "Herbert Lussier, Hubert Lussier"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hubert Pichet",
+    "first_appearance": "2009-03-10",
+    "last_appearance": "2009-03-10",
+    "title": "Policy Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hubert Pichet",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hubert Pichet"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hubert Saindon",
+    "first_appearance": "2014-08-26",
+    "last_appearance": "2023-02-03",
+    "title": "Departmental Liaison",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hubert Saindon",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hubert Saindon"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hubert Villeneuve",
+    "first_appearance": "2023-12-11",
+    "last_appearance": "2024-01-09",
+    "title": "Senior Policy Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hubert Villeneuve",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hubert Villeneuve"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugh Adsett",
+    "first_appearance": "2016-11-01",
+    "last_appearance": "2016-11-02",
+    "title": "Deputy Legal Advisor and Director General",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hugh Adsett",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hugh Adsett"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugh Cheetham",
+    "first_appearance": "2016-01-22",
+    "last_appearance": "2016-01-22",
+    "title": "General Counsel",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hugh Cheetham",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hugh Cheetham"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugh Hicks",
+    "first_appearance": "2017-12-19",
+    "last_appearance": "2018-12-12",
+    "title": "Manager, Economic Development",
+    "Count": 8,
+    "variants": [
+      {
+        "raw_name": "Hugh Hicks",
+        "count": 8
+      }
+    ],
+    "dpoh_name_raw": "Hugh Hicks, hugh hicks"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugh Jones",
+    "first_appearance": "2021-07-23",
+    "last_appearance": "2021-07-23",
+    "title": "Intern",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hugh Jones",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hugh Jones"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugh Langley",
+    "first_appearance": "2016-12-14",
+    "last_appearance": "2022-06-15",
+    "title": "Coordinator, Scientific Programs",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hugh Langley",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hugh Langley"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugh Pouliot",
+    "first_appearance": "2014-10-03",
+    "last_appearance": "2016-05-17",
+    "title": "Staffer",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hugh Pouliot",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hugh Pouliot"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugh Robertson",
+    "first_appearance": "2020-11-13",
+    "last_appearance": "2020-11-13",
+    "title": "Director General",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hugh Robertson",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hugh Robertson"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugh Segal",
+    "first_appearance": "2010-10-05",
+    "last_appearance": "2014-05-27",
+    "title": "Senator",
+    "Count": 24,
+    "variants": [
+      {
+        "raw_name": "Hugh Segal",
+        "count": 24
+      }
+    ],
+    "dpoh_name_raw": "Hon. Hugh Segal, Hugh Segal"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hughe Vaillancourt",
+    "first_appearance": "2016-05-03",
+    "last_appearance": "2016-05-03",
+    "title": "Chief of Finance, Payments",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hughe Vaillancourt",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hughe Vaillancourt"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hughes Carol",
+    "first_appearance": "2017-02-01",
+    "last_appearance": "2017-02-01",
+    "title": "Member of Parliament",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hughes Carol",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hughes Carol"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hughes Morand",
+    "first_appearance": "2020-09-28",
+    "last_appearance": "2020-09-28",
+    "title": "Deputy Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hughes Morand",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hughes Morand"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hughes St-pierre",
+    "first_appearance": "2020-11-02",
+    "last_appearance": "2020-11-02",
+    "title": "Chief Financial Officer and Comptroller",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hughes St-pierre",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hughes St-Pierre"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hughes Vaillancourt",
+    "first_appearance": "2015-09-10",
+    "last_appearance": "2018-06-26",
+    "title": "Director, Payment Policy",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Hughes Vaillancourt",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Hughes Vaillancourt"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Alvarez",
+    "first_appearance": "2024-05-01",
+    "last_appearance": "2024-05-01",
+    "title": "Press Secretary and Communications Advisor",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hugo Alvarez",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hugo Alvarez"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Berthiaume",
+    "first_appearance": "2018-10-24",
+    "last_appearance": "2018-12-11",
+    "title": "Staffer",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Hugo Berthiaume",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Hugo Berthiaume"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Berthiaume Berthiaume",
+    "first_appearance": "2021-03-17",
+    "last_appearance": "2021-03-17",
+    "title": "Parliamentary Secretary",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hugo Berthiaume Berthiaume",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hugo Berthiaume Berthiaume"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Fontaine",
+    "first_appearance": "2012-05-29",
+    "last_appearance": "2014-09-24",
+    "title": "Member's Assistant",
+    "Count": 6,
+    "variants": [
+      {
+        "raw_name": "Hugo Fontaine",
+        "count": 6
+      }
+    ],
+    "dpoh_name_raw": "Hugo Fontaine"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Gherbavaz",
+    "first_appearance": "2013-11-29",
+    "last_appearance": "2014-11-18",
+    "title": "Environmental Assessment Advisor",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hugo Gherbavaz",
+        "count": 1
+      },
+      {
+        "raw_name": "Hugo Gherbavez",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hugo Gherbavaz, Hugo Gherbavez"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Hamel",
+    "first_appearance": "2021-01-26",
+    "last_appearance": "2021-01-26",
+    "title": "Acting Manager",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hugo Hamel",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hugo Hamel"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Lalonde",
+    "first_appearance": "2024-11-26",
+    "last_appearance": "2024-11-26",
+    "title": "Senior Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hugo Lalonde",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hugo Lalonde"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Morand",
+    "first_appearance": "2020-07-24",
+    "last_appearance": "2021-03-09",
+    "title": "Deputy Director",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hugo Morand",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hugo Morand"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Page",
+    "first_appearance": "2022-06-29",
+    "last_appearance": "2024-02-16",
+    "title": "Assistant Commissioner and Chief Financial Officer",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hugo Page",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Hugo Page"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Paquette",
+    "first_appearance": "2016-10-13",
+    "last_appearance": "2016-10-13",
+    "title": "Staffer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hugo Paquette",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hugo Paquette"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugo Robillard",
+    "first_appearance": "2024-05-29",
+    "last_appearance": "2024-05-29",
+    "title": "Senior Program Engineer",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hugo Robillard",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hugo Robillard"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugues Gilbert",
+    "first_appearance": "2009-01-12",
+    "last_appearance": "2009-03-12",
+    "title": "Director, Policy and External Relations",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hugues Gilbert",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hugues Gilbert"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugues Leroux",
+    "first_appearance": "2009-02-18",
+    "last_appearance": "2014-11-10",
+    "title": "Trade Officer",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hugues Leroux",
+        "count": 3
+      }
+    ],
+    "dpoh_name_raw": "Hugues Leroux"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hugues Vaillancourt",
+    "first_appearance": "2016-03-31",
+    "last_appearance": "2024-10-21",
+    "title": "Director General",
+    "Count": 43,
+    "variants": [
+      {
+        "raw_name": "Hugues Vaillaincourt",
+        "count": 1
+      },
+      {
+        "raw_name": "Hugues Vaillancourt",
+        "count": 41
+      },
+      {
+        "raw_name": "Hugues Villancourt",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hugues Vaillaincourt, Hugues Vaillancourt, Hugues Villancourt, hugues vaillancourt"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Huguette Beaupre",
+    "first_appearance": "2011-05-19",
+    "last_appearance": "2011-10-13",
+    "title": "Program Manager",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Huguette Beaupre",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Huguette Beaupr\u00e9"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Huguette Labelle",
+    "first_appearance": "2018-05-29",
+    "last_appearance": "2018-06-18",
+    "title": "Independent Advisory Board, Senate Appointment",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Huguette Labelle",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Huguette Labelle"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hui Hang",
+    "first_appearance": "2024-08-01",
+    "last_appearance": "2024-08-28",
+    "title": "Director of Operations, Western Operations",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hui Hang",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hui Hang"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hui Peng",
+    "first_appearance": "2018-10-10",
+    "last_appearance": "2018-10-10",
+    "title": "Senior Program Engineer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hui Peng",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hui Peng"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hujaleh Hersi",
+    "first_appearance": "2016-02-23",
+    "last_appearance": "2017-12-08",
+    "title": "Policy Advisor",
+    "Count": 3,
+    "variants": [
+      {
+        "raw_name": "Hajaleh Hersi",
+        "count": 1
+      },
+      {
+        "raw_name": "Hujaleh Hersi",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Hajaleh Hersi, Hujaleh Hersi"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Humayun Soomro",
+    "first_appearance": "2019-08-13",
+    "last_appearance": "2019-08-13",
+    "title": "Economist",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Humayun Soomro",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Humayun Soomro"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Humna Shaikh",
+    "first_appearance": "2018-03-29",
+    "last_appearance": "2020-07-03",
+    "title": "Parliamentary Secretary",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Humna Shaikh",
+        "count": 4
+      }
+    ],
+    "dpoh_name_raw": "Humna Shaikh"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hunter Lindsay",
+    "first_appearance": "2016-10-25",
+    "last_appearance": "2016-10-25",
+    "title": "Ontario Regional Desk",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hunter Lindsay",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hunter Lindsay"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hunter Tootoo",
+    "first_appearance": "2015-11-17",
+    "last_appearance": "2019-05-07",
+    "title": "Member of Parliament",
+    "Count": 69,
+    "variants": [
+      {
+        "raw_name": "Hunter Too Too",
+        "count": 1
+      },
+      {
+        "raw_name": "Hunter Tootoo",
+        "count": 68
+      }
+    ],
+    "dpoh_name_raw": "Hon. Hunter Tootoo, Hunter Too Too, Hunter TooToo, Hunter Tootoo, hunter tootoo, the Honourable Hunter Tootoo"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Huntley Johnston",
+    "first_appearance": "2024-02-23",
+    "last_appearance": "2024-02-23",
+    "title": "Permits Officer",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Huntley Johnston",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Huntley Johnston"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hurl David",
+    "first_appearance": "2013-05-14",
+    "last_appearance": "2013-05-14",
+    "title": "Policy Advisor, Opposition Research",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hurl David",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hurl David"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hursh Jaswal",
+    "first_appearance": "2012-02-22",
+    "last_appearance": "2023-02-10",
+    "title": "Chief of Staff",
+    "Count": 52,
+    "variants": [
+      {
+        "raw_name": "Hursh Jaswal",
+        "count": 52
+      }
+    ],
+    "dpoh_name_raw": "Hursh Jaswal"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Husain Aboghodieh",
+    "first_appearance": "2021-12-06",
+    "last_appearance": "2023-05-30",
+    "title": "Policy Advisor",
+    "Count": 72,
+    "variants": [
+      {
+        "raw_name": "Husain Aboghodieh",
+        "count": 70
+      },
+      {
+        "raw_name": "Hussain Aboghodieh",
+        "count": 2
+      }
+    ],
+    "dpoh_name_raw": "Husain  Aboghodieh, Husain Aboghodieh, Husain Aboghodieh , Hussain  Aboghodieh, Hussain Aboghodieh"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hussey Richard",
+    "first_appearance": "2019-10-11",
+    "last_appearance": "2019-10-11",
+    "title": "Director",
+    "Count": 1,
+    "variants": [
+      {
+        "raw_name": "Hussey Richard",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hussey Richard"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Huzaif Qaisar",
+    "first_appearance": "2022-10-17",
+    "last_appearance": "2024-01-18",
+    "title": "Special Assistant, Communications",
+    "Count": 5,
+    "variants": [
+      {
+        "raw_name": "Huzaif Qaisar",
+        "count": 5
+      }
+    ],
+    "dpoh_name_raw": "Huzaif Qaisar"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Hyon Ju Yi",
+    "first_appearance": "2023-01-30",
+    "last_appearance": "2024-08-21",
+    "title": "Trade Commissioner",
+    "Count": 4,
+    "variants": [
+      {
+        "raw_name": "Hyon Ju Li",
+        "count": 1
+      },
+      {
+        "raw_name": "Hyon Ju Yi",
+        "count": 2
+      },
+      {
+        "raw_name": "Hyonju Yi",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hyon Ju Li, Hyon Ju Yi, Hyonju YI"
+  },
+  {
+    "unique_id": "",
+    "cleaned_name": "Patty Hajdu",
+    "first_appearance": "2018-05-01",
+    "last_appearance": "2022-10-19",
+    "title": "Minister",
+    "Count": 2,
+    "variants": [
+      {
+        "raw_name": "Hajdu Patricia",
+        "count": 1
+      },
+      {
+        "raw_name": "Hajdu Patty",
+        "count": 1
+      }
+    ],
+    "dpoh_name_raw": "Hajdu Patricia, Hajdu Patty"
+  }
+]

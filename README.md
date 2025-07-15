@@ -37,13 +37,13 @@ project-root/
 
 1. Initial Cleaning
 Goal: Remove non-essential words/titles, standardize formatting, and split files by first letter for efficiency. It also gives a master file without the slicing.
-Actions:
-Fix encoding and strip accents.
-Remove prefixes/suffixes (e.g., “The Honourable”, “Minister”, “PhD”, “Prime Minister’s Office”).
-Remove punctuation, extra whitespace, content in brackets, and other noise.
-Capitalize correctly.
+Logic:
+- Fix encoding and strip accents.
+- Remove prefixes/suffixes (e.g., “The Honourable”, “Minister”, “PhD”, “Prime Minister’s Office”).
+- Remove punctuation, extra whitespace, content in brackets, and other noise.
+- Capitalize correctly.
 Input: input/dpoh_names_title_all.csv 
-Output: CleanName_version1 column. input/dpoh_names_title_A.csv, ... , output/dpoh_names_title_all_cleaned.csv
+Output: CleanName_version1, CleanTitle_version1 columns. input/dpoh_names_title_A.csv, ... , output/dpoh_names_title_all_cleaned.csv
 
 2. Phase 1: Canonical Name Clustering
 Goal: Group all spelling variants of the same person together and pick the most common form.
@@ -68,7 +68,7 @@ Logic:
 - Output summary tables for each cluster, including all raw name variants.
 - Reference Dictionary: Manual corrections are again applied here.
 Input: output/Clean/cleaned_A.csv,...
-Output: Updated CSV and JSON with phase 3 names/titles. Final summary CSV per cluster.
+Output: CleanName_version3, CleanTitle_version3 columns in CSV.
 output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...; output/Final-Summary/Supercleaned_E_summary.csv,...
 
 
@@ -78,7 +78,7 @@ Logic:
 - A global mapping file ensures the same name always gets the same UUID across all files/runs.
 - Each row in the CSVs gets a dpoh_id column.
 - In JSON cluster files, the UUID is written to the "unique_id" field (overwriting the placeholder).
-Input:
+Input: output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...
 Outputs: All cleaned CSVs and JSONs now contain UUIDs.
 output/UUID-JSON/Supercleaned_A_uniquenames.json,...; output/UUID-CSV/Supercleaned_A_uuid.csv,...
 output/dpoh_mapping.json for cross-file consistency.

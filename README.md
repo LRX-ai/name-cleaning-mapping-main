@@ -69,7 +69,7 @@ Logic:
 - Reference Dictionary: Manual corrections are again applied here.
 Input: output/Clean/cleaned_A.csv,...
 Output: CleanName_version3, CleanTitle_version3 columns in CSV.
-output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...; output/Final-Summary/Supercleaned_E_summary.csv,...
+output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...; output/Final-Summary/Supercleaned_A_summary.csv,...
 
 
 4. UUID Assignment & Final Outputs
@@ -93,3 +93,22 @@ Reference Dictionary: Reference Dictionary.xlsx is a curated list of known missp
 - Cluster merging: Both frequency and metadata-based, with safeguards against unrelated merges.
 - Canonical selection: Always “the most common full name wins” in a cluster.
 - UUID assignment: Persistent, repeatable, and global across the project.
+
+## How to Run
+1. Initial Clean: python Version1_Cleaning.py
+   This reads the input/dpoh_names_title_all.csv and saves the output to: input/dpoh_names_title_A.csv, ... , output/dpoh_names_title_all_cleaned.csv 
+2. Phase 1 Cleaning:
+   - To run the script for all all 26 files: python name_cleanerv1.py
+     This reads the input/dpoh_names_title_A.csv, ... and saves the output to: output/Clean/cleaned_A.csv,...; output/JSON/cleaned_A_uniquenames.json,...; output/Summary/cleaned_A_summary.csv,...
+   - To run a particualr file(Example: A): python name_cleaner.py   -i input/dpoh_names_title_A.csv.csv   -o output/cleaned_A.csv
+     This reads the input/dpoh_names_title_A.csv and saves the output to: output/cleaned_A.csv,...; output/cleaned_A_uniquenames.json,...; output/cleaned_A_summary.csv,...
+     These 3 files will have to be dragged and dropped in the respective folders for further cleaning
+   - To run the entire all cleaned file: python name_cleaner.py   -i output/dpoh_names_title_all_cleaned.csv   -o output/cleaned_all.csv
+     This reads the output/dpoh_names_title_all_cleaned.csv and saves the output to output/cleaned_all.csv,...; output/cleaned_all_uniquenames.json,...; output/cleaned_all_summary.csv,...
+3. Phase 2 Cleaning:
+  - To run the script for all all 26 files: python name_cleanerv2.py
+     This reads the output/Clean/cleaned_A.csv, ... and saves the output to: output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...; output/Final-Summary/Supercleaned_A_summary.csv,...
+  - To run a particualr file(Example: A): python name_cleanerv2.py -l A
+     This reads the output/Clean/cleaned_A.csv and saves the output to: output/Final-CSV/Supercleaned_A.csv; output/Final-JSON/Supercleaned_A_uniquenames.json; output/Final-Summary/Supercleaned_A_summary.csv
+4. UUID Generation: python dpoh_id_creator.py
+  This reads the output/Final-CSV/Supercleaned_A.csv,...; output/Final-JSON/Supercleaned_A_uniquenames.json,...; and saves the output to: output/UUID-JSON/Supercleaned_A_uniquenames.json,...; output/UUID-CSV/Supercleaned_A_uuid.csv,...; output/dpoh_mapping.json
